@@ -1,0 +1,1 @@
+/root/ws_moveit/src/moveit2_tutorials/doc/examples/planning_scene_ros_api/launch/planning_scene_ros_api_tutorial.launch.py

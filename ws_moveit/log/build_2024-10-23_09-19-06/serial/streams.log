@@ -1,0 +1,4 @@
+[0.208s] Invoking command in '/root/ws_moveit/build/serial': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/root/ws_moveit/install/moveit_configs_utils:/opt/ros/humble /usr/bin/cmake --build /root/ws_moveit/build/serial -- -j20 -l20
+[0.323s] [100%] Built target serial
+[0.410s] Invoked command in '/root/ws_moveit/build/serial' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/root/ws_moveit/install/moveit_configs_utils:/opt/ros/humble /usr/bin/cmake --build /root/ws_moveit/build/serial -- -j20 -l20
+[0.528s] Invoking command in '/root/ws_moveit/build/serial': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/root/ws_moveit/install/moveit_configs_utils:/opt/ros/humble /usr/bin/cmake --install /root/ws_moveit/build/serial

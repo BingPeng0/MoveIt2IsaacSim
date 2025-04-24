@@ -1,0 +1,1 @@
+Invoking command in '/root/ws_moveit/build/yolov8_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/root/ws_moveit/install/moveit_configs_utils:/opt/ros/humble /usr/bin/cmake /root/ws_moveit/src/yolov8_ros/yolov8_msgs -DCMAKE_INSTALL_PREFIX=/root/ws_moveit/install/yolov8_msgs

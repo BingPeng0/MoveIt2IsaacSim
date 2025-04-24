@@ -1,0 +1,43 @@
+-- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+WARNING: Package name "Isaac_panda" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /root/ws_moveit/build/Isaac_panda
+-- Install configuration: ""
+-- Installing: /root/ws_moveit/install/Isaac_panda/share/ament_index/resource_index/package_run_dependencies/Isaac_panda
+-- Up-to-date: /root/ws_moveit/install/Isaac_panda/share/ament_index/resource_index/parent_prefix_path/Isaac_panda
+-- Up-to-date: /root/ws_moveit/install/Isaac_panda/share/Isaac_panda/environment/ament_prefix_path.sh
+-- Installing: /root/ws_moveit/install/Isaac_panda/share/Isaac_panda/environment/ament_prefix_path.dsv
+-- Up-to-date: /root/ws_moveit/install/Isaac_panda/share/Isaac_panda/environment/path.sh
+-- Installing: /root/ws_moveit/install/Isaac_panda/share/Isaac_panda/environment/path.dsv
+-- Up-to-date: /root/ws_moveit/install/Isaac_panda/share/Isaac_panda/local_setup.bash
+-- Up-to-date: /root/ws_moveit/install/Isaac_panda/share/Isaac_panda/local_setup.sh
+-- Up-to-date: /root/ws_moveit/install/Isaac_panda/share/Isaac_panda/local_setup.zsh
+-- Installing: /root/ws_moveit/install/Isaac_panda/share/Isaac_panda/local_setup.dsv
+-- Installing: /root/ws_moveit/install/Isaac_panda/share/Isaac_panda/package.dsv
+-- Up-to-date: /root/ws_moveit/install/Isaac_panda/share/ament_index/resource_index/packages/Isaac_panda
+-- Up-to-date: /root/ws_moveit/install/Isaac_panda/share/Isaac_panda/cmake/Isaac_pandaConfig.cmake
+-- Up-to-date: /root/ws_moveit/install/Isaac_panda/share/Isaac_panda/cmake/Isaac_pandaConfig-version.cmake
+-- Installing: /root/ws_moveit/install/Isaac_panda/share/Isaac_panda/package.xml
+-- Up-to-date: /root/ws_moveit/install/Isaac_panda/share/Isaac_panda/launch
+-- Up-to-date: /root/ws_moveit/install/Isaac_panda/share/Isaac_panda/launch/rsp.launch.py
+-- Up-to-date: /root/ws_moveit/install/Isaac_panda/share/Isaac_panda/launch/setup_assistant.launch.py
+-- Up-to-date: /root/ws_moveit/install/Isaac_panda/share/Isaac_panda/launch/warehouse_db.launch.py
+-- Installing: /root/ws_moveit/install/Isaac_panda/share/Isaac_panda/launch/demo.launch.py
+-- Installing: /root/ws_moveit/install/Isaac_panda/share/Isaac_panda/launch/move_group.launch.py
+-- Up-to-date: /root/ws_moveit/install/Isaac_panda/share/Isaac_panda/launch/spawn_controllers.launch.py
+-- Up-to-date: /root/ws_moveit/install/Isaac_panda/share/Isaac_panda/launch/static_virtual_joint_tfs.launch.py
+-- Installing: /root/ws_moveit/install/Isaac_panda/share/Isaac_panda/launch/moveit_rviz.launch.py
+-- Up-to-date: /root/ws_moveit/install/Isaac_panda/share/Isaac_panda/config
+-- Installing: /root/ws_moveit/install/Isaac_panda/share/Isaac_panda/config/sensors_3d.yaml
+-- Installing: /root/ws_moveit/install/Isaac_panda/share/Isaac_panda/config/pilz_cartesian_limits.yaml
+-- Up-to-date: /root/ws_moveit/install/Isaac_panda/share/Isaac_panda/config/panda.urdf.xacro
+-- Up-to-date: /root/ws_moveit/install/Isaac_panda/share/Isaac_panda/config/initial_positions.yaml
+-- Installing: /root/ws_moveit/install/Isaac_panda/share/Isaac_panda/config/moveit_controllers.yaml
+-- Installing: /root/ws_moveit/install/Isaac_panda/share/Isaac_panda/config/moveit.rviz
+-- Installing: /root/ws_moveit/install/Isaac_panda/share/Isaac_panda/config/kinematics.yaml
+-- Installing: /root/ws_moveit/install/Isaac_panda/share/Isaac_panda/config/joint_limits.yaml
+-- Up-to-date: /root/ws_moveit/install/Isaac_panda/share/Isaac_panda/config/panda.ros2_control.xacro
+-- Installing: /root/ws_moveit/install/Isaac_panda/share/Isaac_panda/config/ros2_controllers.yaml
+-- Installing: /root/ws_moveit/install/Isaac_panda/share/Isaac_panda/config/panda.srdf
+-- Installing: /root/ws_moveit/install/Isaac_panda/share/Isaac_panda/.setup_assistant

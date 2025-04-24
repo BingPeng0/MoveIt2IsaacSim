@@ -1,0 +1,1 @@
+/root/ws_moveit/src/moveit2_tutorials/doc/how_to_guides/persistent_scenes_and_states/launch/persistent_scenes_demo.launch.py

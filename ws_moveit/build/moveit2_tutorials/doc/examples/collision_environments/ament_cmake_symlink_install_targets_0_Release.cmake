@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/root/ws_moveit/build/moveit2_tutorials/doc/examples/collision_environments/collision_scene_example" "TARGETS" "collision_scene_example" "ARCHIVE_DESTINATION" "lib" "LIBRARY_DESTINATION" "lib" "RUNTIME_DESTINATION" "lib/moveit2_tutorials")

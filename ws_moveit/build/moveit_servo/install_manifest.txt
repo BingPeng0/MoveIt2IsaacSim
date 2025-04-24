@@ -1,0 +1,6 @@
+/root/ws_moveit/install/moveit_servo/lib/libmoveit_servo_lib_cpp.so.2.9.0
+/root/ws_moveit/install/moveit_servo/lib/libmoveit_servo_lib_cpp.so
+/root/ws_moveit/install/moveit_servo/lib/libmoveit_servo_lib_ros.so.2.9.0
+/root/ws_moveit/install/moveit_servo/lib/libmoveit_servo_lib_ros.so
+/root/ws_moveit/install/moveit_servo/share/moveit_servo/cmake/moveit_servoTargetsExport.cmake
+/root/ws_moveit/install/moveit_servo/share/moveit_servo/cmake/moveit_servoTargetsExport-release.cmake

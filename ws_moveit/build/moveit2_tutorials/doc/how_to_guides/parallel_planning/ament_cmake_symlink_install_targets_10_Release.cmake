@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/root/ws_moveit/build/moveit2_tutorials/doc/how_to_guides/parallel_planning/parallel_planning_example" "TARGETS" "parallel_planning_example" "DESTINATION" "lib/moveit2_tutorials")

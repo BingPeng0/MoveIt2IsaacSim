@@ -1,0 +1,38 @@
+-- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /root/ws_moveit/build/dual_arm_panda_isaac_moveit_config
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /root/ws_moveit/install/dual_arm_panda_isaac_moveit_config/share/ament_index/resource_index/package_run_dependencies/dual_arm_panda_isaac_moveit_config
+-- Symlinking: /root/ws_moveit/install/dual_arm_panda_isaac_moveit_config/share/ament_index/resource_index/parent_prefix_path/dual_arm_panda_isaac_moveit_config
+-- Symlinking: /root/ws_moveit/install/dual_arm_panda_isaac_moveit_config/share/dual_arm_panda_isaac_moveit_config/environment/ament_prefix_path.sh
+-- Symlinking: /root/ws_moveit/install/dual_arm_panda_isaac_moveit_config/share/dual_arm_panda_isaac_moveit_config/environment/ament_prefix_path.dsv
+-- Symlinking: /root/ws_moveit/install/dual_arm_panda_isaac_moveit_config/share/dual_arm_panda_isaac_moveit_config/environment/path.sh
+-- Symlinking: /root/ws_moveit/install/dual_arm_panda_isaac_moveit_config/share/dual_arm_panda_isaac_moveit_config/environment/path.dsv
+-- Symlinking: /root/ws_moveit/install/dual_arm_panda_isaac_moveit_config/share/dual_arm_panda_isaac_moveit_config/local_setup.bash
+-- Symlinking: /root/ws_moveit/install/dual_arm_panda_isaac_moveit_config/share/dual_arm_panda_isaac_moveit_config/local_setup.sh
+-- Symlinking: /root/ws_moveit/install/dual_arm_panda_isaac_moveit_config/share/dual_arm_panda_isaac_moveit_config/local_setup.zsh
+-- Symlinking: /root/ws_moveit/install/dual_arm_panda_isaac_moveit_config/share/dual_arm_panda_isaac_moveit_config/local_setup.dsv
+-- Symlinking: /root/ws_moveit/install/dual_arm_panda_isaac_moveit_config/share/dual_arm_panda_isaac_moveit_config/package.dsv
+-- Symlinking: /root/ws_moveit/install/dual_arm_panda_isaac_moveit_config/share/ament_index/resource_index/packages/dual_arm_panda_isaac_moveit_config
+-- Symlinking: /root/ws_moveit/install/dual_arm_panda_isaac_moveit_config/share/dual_arm_panda_isaac_moveit_config/cmake/dual_arm_panda_isaac_moveit_configConfig.cmake
+-- Symlinking: /root/ws_moveit/install/dual_arm_panda_isaac_moveit_config/share/dual_arm_panda_isaac_moveit_config/cmake/dual_arm_panda_isaac_moveit_configConfig-version.cmake
+-- Symlinking: /root/ws_moveit/install/dual_arm_panda_isaac_moveit_config/share/dual_arm_panda_isaac_moveit_config/package.xml
+-- Symlinking: /root/ws_moveit/install/dual_arm_panda_isaac_moveit_config/share/dual_arm_panda_isaac_moveit_config/launch/demo.launch.py
+-- Symlinking: /root/ws_moveit/install/dual_arm_panda_isaac_moveit_config/share/dual_arm_panda_isaac_moveit_config/launch/moveit.rviz
+-- Symlinking: /root/ws_moveit/install/dual_arm_panda_isaac_moveit_config/share/dual_arm_panda_isaac_moveit_config/config/hand.xacro
+-- Symlinking: /root/ws_moveit/install/dual_arm_panda_isaac_moveit_config/share/dual_arm_panda_isaac_moveit_config/config/joint_limits.yaml
+-- Symlinking: /root/ws_moveit/install/dual_arm_panda_isaac_moveit_config/share/dual_arm_panda_isaac_moveit_config/config/kinematics.yaml
+-- Symlinking: /root/ws_moveit/install/dual_arm_panda_isaac_moveit_config/share/dual_arm_panda_isaac_moveit_config/config/left_initial_positions.yaml
+-- Symlinking: /root/ws_moveit/install/dual_arm_panda_isaac_moveit_config/share/dual_arm_panda_isaac_moveit_config/config/moveit_controllers.yaml
+-- Symlinking: /root/ws_moveit/install/dual_arm_panda_isaac_moveit_config/share/dual_arm_panda_isaac_moveit_config/config/ompl_planning.yaml
+-- Symlinking: /root/ws_moveit/install/dual_arm_panda_isaac_moveit_config/share/dual_arm_panda_isaac_moveit_config/config/panda.ros2_control.xacro
+-- Symlinking: /root/ws_moveit/install/dual_arm_panda_isaac_moveit_config/share/dual_arm_panda_isaac_moveit_config/config/panda.srdf
+-- Symlinking: /root/ws_moveit/install/dual_arm_panda_isaac_moveit_config/share/dual_arm_panda_isaac_moveit_config/config/panda.urdf.xacro
+-- Symlinking: /root/ws_moveit/install/dual_arm_panda_isaac_moveit_config/share/dual_arm_panda_isaac_moveit_config/config/panda_arm_macro.xacro
+-- Symlinking: /root/ws_moveit/install/dual_arm_panda_isaac_moveit_config/share/dual_arm_panda_isaac_moveit_config/config/panda_hand.ros2_control.xacro
+-- Symlinking: /root/ws_moveit/install/dual_arm_panda_isaac_moveit_config/share/dual_arm_panda_isaac_moveit_config/config/pilz_cartesian_limits.yaml
+-- Symlinking: /root/ws_moveit/install/dual_arm_panda_isaac_moveit_config/share/dual_arm_panda_isaac_moveit_config/config/right_initial_positions.yaml
+-- Symlinking: /root/ws_moveit/install/dual_arm_panda_isaac_moveit_config/share/dual_arm_panda_isaac_moveit_config/config/ros2_controllers.yaml

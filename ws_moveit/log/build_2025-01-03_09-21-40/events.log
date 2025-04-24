@@ -1,0 +1,126 @@
+[0.000000] (-) TimerEvent: {}
+[0.000337] (-) JobUnselected: {'identifier': 'chomp_motion_planner'}
+[0.000587] (-) JobUnselected: {'identifier': 'dual_arm_panda_isaac_moveit_config'}
+[0.000653] (-) JobUnselected: {'identifier': 'dual_arm_panda_moveit_config'}
+[0.000679] (-) JobUnselected: {'identifier': 'isaac_panda_moveit_config'}
+[0.000703] (-) JobUnselected: {'identifier': 'kinova_gen3_6dof_robotiq_2f_85_moveit_config'}
+[0.000721] (-) JobUnselected: {'identifier': 'kinova_gen3_7dof_robotiq_2f_85_moveit_config'}
+[0.000738] (-) JobUnselected: {'identifier': 'kortex_api'}
+[0.000755] (-) JobUnselected: {'identifier': 'kortex_bringup'}
+[0.000771] (-) JobUnselected: {'identifier': 'kortex_description'}
+[0.000786] (-) JobUnselected: {'identifier': 'kortex_driver'}
+[0.000802] (-) JobUnselected: {'identifier': 'moveit'}
+[0.000817] (-) JobUnselected: {'identifier': 'moveit2_tutorials'}
+[0.000832] (-) JobUnselected: {'identifier': 'moveit_common'}
+[0.000847] (-) JobUnselected: {'identifier': 'moveit_configs_utils'}
+[0.000862] (-) JobUnselected: {'identifier': 'moveit_core'}
+[0.000877] (-) JobUnselected: {'identifier': 'moveit_hybrid_planning'}
+[0.000891] (-) JobUnselected: {'identifier': 'moveit_kinematics'}
+[0.000906] (-) JobUnselected: {'identifier': 'moveit_msgs'}
+[0.000920] (-) JobUnselected: {'identifier': 'moveit_planners'}
+[0.001104] (-) JobUnselected: {'identifier': 'moveit_planners_chomp'}
+[0.001126] (-) JobUnselected: {'identifier': 'moveit_planners_ompl'}
+[0.001135] (-) JobUnselected: {'identifier': 'moveit_planners_stomp'}
+[0.001143] (-) JobUnselected: {'identifier': 'moveit_plugins'}
+[0.001149] (-) JobUnselected: {'identifier': 'moveit_py'}
+[0.001157] (-) JobUnselected: {'identifier': 'moveit_resources'}
+[0.001187] (-) JobUnselected: {'identifier': 'moveit_resources_fanuc_description'}
+[0.001217] (-) JobUnselected: {'identifier': 'moveit_resources_fanuc_moveit_config'}
+[0.001227] (-) JobUnselected: {'identifier': 'moveit_resources_panda_description'}
+[0.001235] (-) JobUnselected: {'identifier': 'moveit_resources_panda_moveit_config'}
+[0.001244] (-) JobUnselected: {'identifier': 'moveit_resources_pr2_description'}
+[0.001252] (-) JobUnselected: {'identifier': 'moveit_resources_prbt_ikfast_manipulator_plugin'}
+[0.001259] (-) JobUnselected: {'identifier': 'moveit_resources_prbt_moveit_config'}
+[0.001266] (-) JobUnselected: {'identifier': 'moveit_resources_prbt_pg70_support'}
+[0.001273] (-) JobUnselected: {'identifier': 'moveit_resources_prbt_support'}
+[0.001280] (-) JobUnselected: {'identifier': 'moveit_ros'}
+[0.001286] (-) JobUnselected: {'identifier': 'moveit_ros_benchmarks'}
+[0.001293] (-) JobUnselected: {'identifier': 'moveit_ros_control_interface'}
+[0.001299] (-) JobUnselected: {'identifier': 'moveit_ros_move_group'}
+[0.001306] (-) JobUnselected: {'identifier': 'moveit_ros_occupancy_map_monitor'}
+[0.001313] (-) JobUnselected: {'identifier': 'moveit_ros_perception'}
+[0.001321] (-) JobUnselected: {'identifier': 'moveit_ros_planning'}
+[0.001328] (-) JobUnselected: {'identifier': 'moveit_ros_planning_interface'}
+[0.001334] (-) JobUnselected: {'identifier': 'moveit_ros_robot_interaction'}
+[0.001341] (-) JobUnselected: {'identifier': 'moveit_ros_tests'}
+[0.001348] (-) JobUnselected: {'identifier': 'moveit_ros_visualization'}
+[0.001355] (-) JobUnselected: {'identifier': 'moveit_ros_warehouse'}
+[0.001361] (-) JobUnselected: {'identifier': 'moveit_runtime'}
+[0.001368] (-) JobUnselected: {'identifier': 'moveit_servo'}
+[0.001374] (-) JobUnselected: {'identifier': 'moveit_setup_app_plugins'}
+[0.001381] (-) JobUnselected: {'identifier': 'moveit_setup_assistant'}
+[0.001390] (-) JobUnselected: {'identifier': 'moveit_setup_controllers'}
+[0.001397] (-) JobUnselected: {'identifier': 'moveit_setup_core_plugins'}
+[0.001403] (-) JobUnselected: {'identifier': 'moveit_setup_framework'}
+[0.001410] (-) JobUnselected: {'identifier': 'moveit_setup_srdf_plugins'}
+[0.001417] (-) JobUnselected: {'identifier': 'moveit_simple_controller_manager'}
+[0.001423] (-) JobUnselected: {'identifier': 'moveit_task_constructor_capabilities'}
+[0.001430] (-) JobUnselected: {'identifier': 'moveit_task_constructor_core'}
+[0.001522] (-) JobUnselected: {'identifier': 'moveit_task_constructor_demo'}
+[0.001541] (-) JobUnselected: {'identifier': 'moveit_task_constructor_msgs'}
+[0.001548] (-) JobUnselected: {'identifier': 'moveit_task_constructor_visualization'}
+[0.001555] (-) JobUnselected: {'identifier': 'moveit_visual_tools'}
+[0.001561] (-) JobUnselected: {'identifier': 'my_robot'}
+[0.001568] (-) JobUnselected: {'identifier': 'pick_ik'}
+[0.001575] (-) JobUnselected: {'identifier': 'pilz_industrial_motion_planner'}
+[0.001581] (-) JobUnselected: {'identifier': 'pilz_industrial_motion_planner_testutils'}
+[0.001588] (-) JobUnselected: {'identifier': 'robotiq_controllers'}
+[0.001625] (-) JobUnselected: {'identifier': 'robotiq_description'}
+[0.001632] (-) JobUnselected: {'identifier': 'robotiq_driver'}
+[0.001643] (-) JobUnselected: {'identifier': 'robotiq_hardware_tests'}
+[0.001653] (-) JobUnselected: {'identifier': 'rviz_marker_tools'}
+[0.001663] (-) JobUnselected: {'identifier': 'rviz_visual_tools'}
+[0.001672] (-) JobUnselected: {'identifier': 'serial'}
+[0.001683] (-) JobUnselected: {'identifier': 'yolov8_bringup'}
+[0.001693] (-) JobUnselected: {'identifier': 'yolov8_msgs'}
+[0.001703] (-) JobUnselected: {'identifier': 'yolov8_ros'}
+[0.001715] (reem_moveit_config) JobQueued: {'identifier': 'reem_moveit_config', 'dependencies': OrderedDict([('moveit_common', '/root/ws_moveit/install/moveit_common'), ('moveit_configs_utils', '/root/ws_moveit/install/moveit_configs_utils'), ('moveit_msgs', '/root/ws_moveit/install/moveit_msgs'), ('moveit_resources_fanuc_description', '/root/ws_moveit/install/moveit_resources_fanuc_description'), ('moveit_resources_panda_description', '/root/ws_moveit/install/moveit_resources_panda_description'), ('moveit_resources_pr2_description', '/root/ws_moveit/install/moveit_resources_pr2_description'), ('moveit_resources_fanuc_moveit_config', '/root/ws_moveit/install/moveit_resources_fanuc_moveit_config'), ('moveit_resources_panda_moveit_config', '/root/ws_moveit/install/moveit_resources_panda_moveit_config'), ('moveit_core', '/root/ws_moveit/install/moveit_core'), ('moveit_ros_occupancy_map_monitor', '/root/ws_moveit/install/moveit_ros_occupancy_map_monitor'), ('moveit_simple_controller_manager', '/root/ws_moveit/install/moveit_simple_controller_manager'), ('moveit_ros_planning', '/root/ws_moveit/install/moveit_ros_planning'), ('moveit_kinematics', '/root/ws_moveit/install/moveit_kinematics'), ('moveit_planners_ompl', '/root/ws_moveit/install/moveit_planners_ompl'), ('moveit_ros_robot_interaction', '/root/ws_moveit/install/moveit_ros_robot_interaction'), ('moveit_ros_warehouse', '/root/ws_moveit/install/moveit_ros_warehouse'), ('moveit_ros_move_group', '/root/ws_moveit/install/moveit_ros_move_group'), ('moveit_ros_planning_interface', '/root/ws_moveit/install/moveit_ros_planning_interface'), ('moveit_ros_visualization', '/root/ws_moveit/install/moveit_ros_visualization')])}
+[0.001749] (reem_moveit_config) JobStarted: {'identifier': 'reem_moveit_config'}
+[0.060576] (reem_moveit_config) JobProgress: {'identifier': 'reem_moveit_config', 'progress': 'cmake'}
+[0.060771] (reem_moveit_config) Command: {'cmd': ['/usr/bin/cmake', '/root/ws_moveit/src/moveit_resources/reem_moveit_config', '-DCATKIN_INSTALL_INTO_PREFIX_ROOT=0', '-DCMAKE_INSTALL_PREFIX=/root/ws_moveit/install/reem_moveit_config'], 'cwd': '/root/ws_moveit/build/reem_moveit_config', 'env': OrderedDict([('ROS_UNDERLAY', '/root/ws_moveit/install'), ('HOSTNAME', '22'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/root/ws_moveit/install/moveit_ros_visualization/lib:/root/ws_moveit/install/moveit_ros_planning_interface/lib:/root/ws_moveit/install/moveit_ros_move_group/lib:/root/ws_moveit/install/moveit_ros_warehouse/lib:/root/ws_moveit/install/moveit_ros_robot_interaction/lib:/root/ws_moveit/install/moveit_planners_ompl/lib:/root/ws_moveit/install/moveit_kinematics/lib:/root/ws_moveit/install/moveit_ros_planning/lib:/root/ws_moveit/install/moveit_simple_controller_manager/lib:/root/ws_moveit/install/moveit_ros_occupancy_map_monitor/lib:/root/ws_moveit/install/moveit_core/lib:/root/ws_moveit/install/moveit_msgs/lib:/root/ws_moveit/install/robotiq_driver/lib:/root/ws_moveit/install/serial/lib:/root/ws_moveit/install/moveit_visual_tools/lib:/root/ws_moveit/install/rviz_visual_tools/lib:/root/ws_moveit/install/moveit_task_constructor_visualization/lib:/root/ws_moveit/install/moveit_task_constructor_demo/lib:/root/ws_moveit/install/moveit_task_constructor_capabilities/lib:/root/ws_moveit/install/moveit_task_constructor_core/lib:/root/ws_moveit/install/rviz_marker_tools/lib:/root/ws_moveit/install/robotiq_controllers/lib:/root/ws_moveit/install/pilz_industrial_motion_planner_testutils/lib:/root/ws_moveit/install/pilz_industrial_motion_planner/lib:/root/ws_moveit/install/pick_ik/lib:/root/ws_moveit/install/moveit_task_constructor_msgs/lib:/root/ws_moveit/install/moveit_ros_control_interface/lib:/root/ws_moveit/install/moveit_setup_assistant/lib:/root/ws_moveit/install/moveit_setup_srdf_plugins/lib:/root/ws_moveit/install/moveit_setup_core_plugins/lib:/root/ws_moveit/install/moveit_setup_controllers/lib:/root/ws_moveit/install/moveit_setup_app_plugins/lib:/root/ws_moveit/install/moveit_setup_framework/lib:/root/ws_moveit/install/moveit_servo/lib:/root/ws_moveit/install/moveit_py/lib:/root/ws_moveit/install/moveit_hybrid_planning/lib:/root/ws_moveit/install/moveit_ros_benchmarks/lib:/root/ws_moveit/install/moveit_ros_perception/lib:/root/ws_moveit/install/moveit_resources_prbt_ikfast_manipulator_plugin/lib:/root/ws_moveit/install/moveit_planners_stomp/lib:/root/ws_moveit/install/moveit_planners_chomp/lib:/root/ws_moveit/install/chomp_motion_planner/lib:/root/ws_moveit/install/kortex_driver/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('HOME', '/root'), ('ROS_PYTHON_VERSION', '3'), ('COLCON_PREFIX_PATH', '/root/ws_moveit/install'), ('ROS_DISTRO', 'humble'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('NVIDIA_DRIVER_CAPABILITIES', 'all'), ('TERM', 'xterm'), ('ROS_LOCALHOST_ONLY', '0'), ('QT_X11_NO_MITSHM', '1'), ('PATH', '/root/ws_moveit/install/moveit_core/bin:/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'), ('FASTRTPS_DEFAULT_PROFILES_FILE', '/opt/.ros/fastdds.xml'), ('DISPLAY', ':1'), ('LANG', 'C.UTF-8'), ('RMW_IMPLEMENTATION', 'rmw_fastrtps_cpp'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('ROS_DOMAIN_ID', '0'), ('AMENT_PREFIX_PATH', '/root/ws_moveit/install/moveit_configs_utils:/root/ws_moveit/install/robotiq_hardware_tests:/root/ws_moveit/install/robotiq_driver:/root/ws_moveit/install/serial:/root/ws_moveit/install/moveit2_tutorials:/root/ws_moveit/install/moveit_visual_tools:/root/ws_moveit/install/rviz_visual_tools:/root/ws_moveit/install/moveit_task_constructor_visualization:/root/ws_moveit/install/moveit_task_constructor_demo:/root/ws_moveit/install/moveit_task_constructor_capabilities:/root/ws_moveit/install/moveit_task_constructor_core:/root/ws_moveit/install/rviz_marker_tools:/root/ws_moveit/install/kortex_bringup:/root/ws_moveit/install/kinova_gen3_7dof_robotiq_2f_85_moveit_config:/root/ws_moveit/install/kinova_gen3_6dof_robotiq_2f_85_moveit_config:/root/ws_moveit/install/kortex_description:/root/ws_moveit/install/robotiq_description:/root/ws_moveit/install/robotiq_controllers:/root/ws_moveit/install/pilz_industrial_motion_planner_testutils:/root/ws_moveit/install/moveit_runtime:/root/ws_moveit/install/moveit_config:/root/ws_moveit/install/moveit:/root/ws_moveit/install/moveit_planners:/root/ws_moveit/install/pilz_industrial_motion_planner:/root/ws_moveit/install/pick_ik:/root/ws_moveit/install/my_robot:/root/ws_moveit/install/moveit_task_constructor_msgs:/root/ws_moveit/install/moveit_ros_control_interface:/root/ws_moveit/install/moveit_plugins:/root/ws_moveit/install/moveit_simple_controller_manager:/root/ws_moveit/install/moveit_setup_assistant:/root/ws_moveit/install/moveit_setup_srdf_plugins:/root/ws_moveit/install/moveit_setup_core_plugins:/root/ws_moveit/install/moveit_setup_controllers:/root/ws_moveit/install/moveit_setup_app_plugins:/root/ws_moveit/install/moveit_setup_framework:/root/ws_moveit/install/moveit_servo:/root/ws_moveit/install/moveit_ros:/root/ws_moveit/install/moveit_ros_visualization:/root/ws_moveit/install/moveit_py:/root/ws_moveit/install/moveit_hybrid_planning:/root/ws_moveit/install/moveit_ros_planning_interface:/root/ws_moveit/install/moveit_ros_benchmarks:/root/ws_moveit/install/moveit_ros_warehouse:/root/ws_moveit/install/moveit_ros_robot_interaction:/root/ws_moveit/install/moveit_ros_perception:/root/ws_moveit/install/moveit_resources_prbt_pg70_support:/root/ws_moveit/install/moveit_resources_prbt_moveit_config:/root/ws_moveit/install/moveit_ros_move_group:/root/ws_moveit/install/moveit_planners_ompl:/root/ws_moveit/install/moveit_kinematics:/root/ws_moveit/install/moveit_ros_planning:/root/ws_moveit/install/moveit_ros_occupancy_map_monitor:/root/ws_moveit/install/moveit_resources_prbt_support:/root/ws_moveit/install/moveit_resources_prbt_ikfast_manipulator_plugin:/root/ws_moveit/install/moveit_resources:/root/ws_moveit/install/moveit_resources_pr2_description:/root/ws_moveit/install/moveit_resources_panda_moveit_config:/root/ws_moveit/install/dual_arm_panda_moveit_config:/root/ws_moveit/install/dual_arm_panda_isaac_moveit_config:/root/ws_moveit/install/moveit_resources_panda_description:/root/ws_moveit/install/moveit_resources_fanuc_moveit_config:/root/ws_moveit/install/moveit_resources_fanuc_description:/root/ws_moveit/install/moveit_planners_stomp:/root/ws_moveit/install/moveit_planners_chomp:/root/ws_moveit/install/chomp_motion_planner:/root/ws_moveit/install/moveit_core:/root/ws_moveit/install/moveit_msgs:/root/ws_moveit/install/moveit_common:/root/ws_moveit/install/kortex_driver:/root/ws_moveit/install/kortex_api:/opt/ros/humble'), ('PWD', '/root/ws_moveit/build/reem_moveit_config'), ('LC_ALL', 'C.UTF-8'), ('PYTHONPATH', '/root/ws_moveit/install/moveit_configs_utils/lib/python3.10/site-packages:/root/ws_moveit/install/moveit_task_constructor_msgs/local/lib/python3.10/dist-packages:/root/ws_moveit/install/moveit_py/local/lib/python3.10/dist-packages:/root/ws_moveit/install/moveit_msgs/local/lib/python3.10/dist-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('NVIDIA_VISIBLE_DEVICES', 'all'), ('COLCON', '1'), ('CMAKE_PREFIX_PATH', '/root/ws_moveit/install/moveit_ros_visualization:/root/ws_moveit/install/moveit_ros_planning_interface:/root/ws_moveit/install/moveit_ros_move_group:/root/ws_moveit/install/moveit_ros_warehouse:/root/ws_moveit/install/moveit_ros_robot_interaction:/root/ws_moveit/install/moveit_planners_ompl:/root/ws_moveit/install/moveit_kinematics:/root/ws_moveit/install/moveit_ros_planning:/root/ws_moveit/install/moveit_simple_controller_manager:/root/ws_moveit/install/moveit_ros_occupancy_map_monitor:/root/ws_moveit/install/moveit_core:/root/ws_moveit/install/moveit_resources_panda_moveit_config:/root/ws_moveit/install/moveit_resources_fanuc_moveit_config:/root/ws_moveit/install/moveit_resources_pr2_description:/root/ws_moveit/install/moveit_resources_panda_description:/root/ws_moveit/install/moveit_resources_fanuc_description:/root/ws_moveit/install/moveit_msgs:/root/ws_moveit/install/moveit_common:/root/ws_moveit/install/robotiq_hardware_tests:/root/ws_moveit/install/robotiq_driver:/root/ws_moveit/install/serial:/root/ws_moveit/install/moveit2_tutorials:/root/ws_moveit/install/moveit_visual_tools:/root/ws_moveit/install/rviz_visual_tools:/root/ws_moveit/install/moveit_task_constructor_visualization:/root/ws_moveit/install/moveit_task_constructor_demo:/root/ws_moveit/install/moveit_task_constructor_capabilities:/root/ws_moveit/install/moveit_task_constructor_core:/root/ws_moveit/install/rviz_marker_tools:/root/ws_moveit/install/kortex_bringup:/root/ws_moveit/install/kinova_gen3_7dof_robotiq_2f_85_moveit_config:/root/ws_moveit/install/kinova_gen3_6dof_robotiq_2f_85_moveit_config:/root/ws_moveit/install/kortex_description:/root/ws_moveit/install/robotiq_description:/root/ws_moveit/install/robotiq_controllers:/root/ws_moveit/install/pilz_industrial_motion_planner_testutils:/root/ws_moveit/install/moveit_runtime:/root/ws_moveit/install/moveit_config:/root/ws_moveit/install/moveit:/root/ws_moveit/install/moveit_planners:/root/ws_moveit/install/pilz_industrial_motion_planner:/root/ws_moveit/install/pick_ik:/root/ws_moveit/install/my_robot:/root/ws_moveit/install/moveit_task_constructor_msgs:/root/ws_moveit/install/moveit_ros_control_interface:/root/ws_moveit/install/moveit_plugins:/root/ws_moveit/install/moveit_setup_assistant:/root/ws_moveit/install/moveit_setup_srdf_plugins:/root/ws_moveit/install/moveit_setup_core_plugins:/root/ws_moveit/install/moveit_setup_controllers:/root/ws_moveit/install/moveit_setup_app_plugins:/root/ws_moveit/install/moveit_setup_framework:/root/ws_moveit/install/moveit_servo:/root/ws_moveit/install/moveit_ros:/root/ws_moveit/install/moveit_py:/root/ws_moveit/install/moveit_hybrid_planning:/root/ws_moveit/install/moveit_ros_benchmarks:/root/ws_moveit/install/moveit_ros_perception:/root/ws_moveit/install/moveit_resources_prbt_pg70_support:/root/ws_moveit/install/moveit_resources_prbt_moveit_config:/root/ws_moveit/install/moveit_resources_prbt_support:/root/ws_moveit/install/moveit_resources_prbt_ikfast_manipulator_plugin:/root/ws_moveit/install/moveit_resources:/root/ws_moveit/install/dual_arm_panda_moveit_config:/root/ws_moveit/install/dual_arm_panda_isaac_moveit_config:/root/ws_moveit/install/moveit_planners_stomp:/root/ws_moveit/install/moveit_planners_chomp:/root/ws_moveit/install/chomp_motion_planner:/root/ws_moveit/install/kortex_driver:/root/ws_moveit/install/kortex_api')]), 'shell': False}
+[0.078061] (reem_moveit_config) StderrLine: {'line': b'\x1b[0mCMake Deprecation Warning at CMakeLists.txt:1 (cmake_minimum_required):\n'}
+[0.078277] (reem_moveit_config) StderrLine: {'line': b'  Compatibility with CMake < 2.8.12 will be removed from a future version of\n'}
+[0.078321] (reem_moveit_config) StderrLine: {'line': b'  CMake.\n'}
+[0.078351] (reem_moveit_config) StderrLine: {'line': b'\n'}
+[0.078379] (reem_moveit_config) StderrLine: {'line': b'  Update the VERSION argument <min> value or use a ...<max> suffix to tell\n'}
+[0.078405] (reem_moveit_config) StderrLine: {'line': b'  CMake that the project does not need compatibility with older versions.\n'}
+[0.078432] (reem_moveit_config) StderrLine: {'line': b'\n'}
+[0.078464] (reem_moveit_config) StderrLine: {'line': b'\x1b[0m\n'}
+[0.099786] (-) TimerEvent: {}
+[0.186379] (reem_moveit_config) StdoutLine: {'line': b'-- The C compiler identification is GNU 11.4.0\n'}
+[0.199872] (-) TimerEvent: {}
+[0.262752] (reem_moveit_config) StdoutLine: {'line': b'-- The CXX compiler identification is GNU 11.4.0\n'}
+[0.273846] (reem_moveit_config) StdoutLine: {'line': b'-- Detecting C compiler ABI info\n'}
+[0.299976] (-) TimerEvent: {}
+[0.348028] (reem_moveit_config) StdoutLine: {'line': b'-- Detecting C compiler ABI info - done\n'}
+[0.354863] (reem_moveit_config) StdoutLine: {'line': b'-- Check for working C compiler: /usr/bin/cc - skipped\n'}
+[0.355160] (reem_moveit_config) StdoutLine: {'line': b'-- Detecting C compile features\n'}
+[0.355632] (reem_moveit_config) StdoutLine: {'line': b'-- Detecting C compile features - done\n'}
+[0.358780] (reem_moveit_config) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info\n'}
+[0.400057] (-) TimerEvent: {}
+[0.436803] (reem_moveit_config) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info - done\n'}
+[0.445983] (reem_moveit_config) StdoutLine: {'line': b'-- Check for working CXX compiler: /usr/bin/c++ - skipped\n'}
+[0.446256] (reem_moveit_config) StdoutLine: {'line': b'-- Detecting CXX compile features\n'}
+[0.446489] (reem_moveit_config) StdoutLine: {'line': b'-- Detecting CXX compile features - done\n'}
+[0.463190] (reem_moveit_config) StderrLine: {'line': b'\x1b[31mCMake Error at CMakeLists.txt:4 (find_package):\n'}
+[0.463403] (reem_moveit_config) StderrLine: {'line': b'  By not providing "Findcatkin.cmake" in CMAKE_MODULE_PATH this project has\n'}
+[0.463491] (reem_moveit_config) StderrLine: {'line': b'  asked CMake to find a package configuration file provided by "catkin", but\n'}
+[0.463547] (reem_moveit_config) StderrLine: {'line': b'  CMake did not find one.\n'}
+[0.463585] (reem_moveit_config) StderrLine: {'line': b'\n'}
+[0.463621] (reem_moveit_config) StderrLine: {'line': b'  Could not find a package configuration file provided by "catkin" with any\n'}
+[0.463657] (reem_moveit_config) StderrLine: {'line': b'  of the following names:\n'}
+[0.463690] (reem_moveit_config) StderrLine: {'line': b'\n'}
+[0.463724] (reem_moveit_config) StderrLine: {'line': b'    catkinConfig.cmake\n'}
+[0.463758] (reem_moveit_config) StderrLine: {'line': b'    catkin-config.cmake\n'}
+[0.463789] (reem_moveit_config) StderrLine: {'line': b'\n'}
+[0.463823] (reem_moveit_config) StderrLine: {'line': b'  Add the installation prefix of "catkin" to CMAKE_PREFIX_PATH or set\n'}
+[0.463861] (reem_moveit_config) StderrLine: {'line': b'  "catkin_DIR" to a directory containing one of the above files.  If "catkin"\n'}
+[0.463895] (reem_moveit_config) StderrLine: {'line': b'  provides a separate development package or SDK, be sure it has been\n'}
+[0.463927] (reem_moveit_config) StderrLine: {'line': b'  installed.\n'}
+[0.463959] (reem_moveit_config) StderrLine: {'line': b'\n'}
+[0.463993] (reem_moveit_config) StderrLine: {'line': b'\x1b[0m\n'}
+[0.464032] (reem_moveit_config) StdoutLine: {'line': b'-- Configuring incomplete, errors occurred!\n'}
+[0.464075] (reem_moveit_config) StdoutLine: {'line': b'See also "/root/ws_moveit/build/reem_moveit_config/CMakeFiles/CMakeOutput.log".\n'}
+[0.466074] (reem_moveit_config) CommandEnded: {'returncode': 1}
+[0.480424] (reem_moveit_config) JobEnded: {'identifier': 'reem_moveit_config', 'rc': 1}
+[0.490911] (-) EventReactorShutdown: {}

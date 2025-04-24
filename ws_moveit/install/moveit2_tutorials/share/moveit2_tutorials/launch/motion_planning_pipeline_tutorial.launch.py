@@ -1,0 +1,1 @@
+/root/ws_moveit/src/moveit2_tutorials/doc/examples/motion_planning_pipeline/launch/motion_planning_pipeline_tutorial.launch.py

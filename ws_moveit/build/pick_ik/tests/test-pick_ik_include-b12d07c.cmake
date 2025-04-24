@@ -1,0 +1,5 @@
+if(EXISTS "/root/ws_moveit/build/pick_ik/tests/test-pick_ik_tests-b12d07c.cmake")
+  include("/root/ws_moveit/build/pick_ik/tests/test-pick_ik_tests-b12d07c.cmake")
+else()
+  add_test(test-pick_ik_NOT_BUILT-b12d07c test-pick_ik_NOT_BUILT-b12d07c)
+endif()

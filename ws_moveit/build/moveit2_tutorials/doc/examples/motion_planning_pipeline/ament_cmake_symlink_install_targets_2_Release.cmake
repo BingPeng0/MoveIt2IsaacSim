@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/root/ws_moveit/build/moveit2_tutorials/doc/examples/motion_planning_pipeline/motion_planning_pipeline_tutorial" "TARGETS" "motion_planning_pipeline_tutorial" "DESTINATION" "lib/moveit2_tutorials")

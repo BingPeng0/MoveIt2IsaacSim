@@ -1,0 +1,1 @@
+/root/ws_moveit/src/moveit2_tutorials/doc/my_workings/pnp_panda/scripts/non_humanoid.py

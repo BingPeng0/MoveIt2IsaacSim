@@ -1,0 +1,15 @@
+/root/ws_moveit/install/my_robot/share/ament_index/resource_index/package_run_dependencies/my_robot
+/root/ws_moveit/install/my_robot/share/ament_index/resource_index/parent_prefix_path/my_robot
+/root/ws_moveit/install/my_robot/share/my_robot/environment/ament_prefix_path.sh
+/root/ws_moveit/install/my_robot/share/my_robot/environment/ament_prefix_path.dsv
+/root/ws_moveit/install/my_robot/share/my_robot/environment/path.sh
+/root/ws_moveit/install/my_robot/share/my_robot/environment/path.dsv
+/root/ws_moveit/install/my_robot/share/my_robot/local_setup.bash
+/root/ws_moveit/install/my_robot/share/my_robot/local_setup.sh
+/root/ws_moveit/install/my_robot/share/my_robot/local_setup.zsh
+/root/ws_moveit/install/my_robot/share/my_robot/local_setup.dsv
+/root/ws_moveit/install/my_robot/share/my_robot/package.dsv
+/root/ws_moveit/install/my_robot/share/ament_index/resource_index/packages/my_robot
+/root/ws_moveit/install/my_robot/share/my_robot/cmake/my_robotConfig.cmake
+/root/ws_moveit/install/my_robot/share/my_robot/cmake/my_robotConfig-version.cmake
+/root/ws_moveit/install/my_robot/share/my_robot/package.xml

@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/root/ws_moveit/build/moveit2_tutorials/doc/my_workings/pnp_panda/pickandplace1" "TARGETS" "pickandplace1" "ARCHIVE_DESTINATION" "lib" "LIBRARY_DESTINATION" "lib" "RUNTIME_DESTINATION" "lib/moveit2_tutorials")

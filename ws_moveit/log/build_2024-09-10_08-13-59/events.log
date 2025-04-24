@@ -1,0 +1,76 @@
+[0.000000] (-) TimerEvent: {}
+[0.000466] (-) JobUnselected: {'identifier': 'chomp_motion_planner'}
+[0.000646] (-) JobUnselected: {'identifier': 'dual_arm_panda_moveit_config'}
+[0.000729] (-) JobUnselected: {'identifier': 'kinova_gen3_6dof_robotiq_2f_85_moveit_config'}
+[0.000751] (-) JobUnselected: {'identifier': 'kinova_gen3_7dof_robotiq_2f_85_moveit_config'}
+[0.000782] (-) JobUnselected: {'identifier': 'kortex_api'}
+[0.000802] (-) JobUnselected: {'identifier': 'kortex_bringup'}
+[0.000962] (-) JobUnselected: {'identifier': 'kortex_description'}
+[0.000982] (-) JobUnselected: {'identifier': 'kortex_driver'}
+[0.001007] (-) JobUnselected: {'identifier': 'moveit'}
+[0.001026] (-) JobUnselected: {'identifier': 'moveit_common'}
+[0.001044] (-) JobUnselected: {'identifier': 'moveit_configs_utils'}
+[0.001179] (-) JobUnselected: {'identifier': 'moveit_core'}
+[0.001204] (-) JobUnselected: {'identifier': 'moveit_hybrid_planning'}
+[0.001255] (-) JobUnselected: {'identifier': 'moveit_kinematics'}
+[0.001432] (-) JobUnselected: {'identifier': 'moveit_msgs'}
+[0.001503] (-) JobUnselected: {'identifier': 'moveit_planners'}
+[0.001553] (-) JobUnselected: {'identifier': 'moveit_planners_chomp'}
+[0.001564] (-) JobUnselected: {'identifier': 'moveit_planners_ompl'}
+[0.001573] (-) JobUnselected: {'identifier': 'moveit_planners_stomp'}
+[0.001581] (-) JobUnselected: {'identifier': 'moveit_plugins'}
+[0.001589] (-) JobUnselected: {'identifier': 'moveit_py'}
+[0.001599] (-) JobUnselected: {'identifier': 'moveit_resources_fanuc_description'}
+[0.001608] (-) JobUnselected: {'identifier': 'moveit_resources_fanuc_moveit_config'}
+[0.001615] (-) JobUnselected: {'identifier': 'moveit_resources_panda_description'}
+[0.001622] (-) JobUnselected: {'identifier': 'moveit_resources_panda_moveit_config'}
+[0.001630] (-) JobUnselected: {'identifier': 'moveit_resources_pr2_description'}
+[0.001637] (-) JobUnselected: {'identifier': 'moveit_resources_prbt_ikfast_manipulator_plugin'}
+[0.001646] (-) JobUnselected: {'identifier': 'moveit_resources_prbt_moveit_config'}
+[0.001654] (-) JobUnselected: {'identifier': 'moveit_resources_prbt_pg70_support'}
+[0.001662] (-) JobUnselected: {'identifier': 'moveit_resources_prbt_support'}
+[0.001669] (-) JobUnselected: {'identifier': 'moveit_ros'}
+[0.001677] (-) JobUnselected: {'identifier': 'moveit_ros_benchmarks'}
+[0.001685] (-) JobUnselected: {'identifier': 'moveit_ros_control_interface'}
+[0.001694] (-) JobUnselected: {'identifier': 'moveit_ros_move_group'}
+[0.001701] (-) JobUnselected: {'identifier': 'moveit_ros_occupancy_map_monitor'}
+[0.001708] (-) JobUnselected: {'identifier': 'moveit_ros_perception'}
+[0.001715] (-) JobUnselected: {'identifier': 'moveit_ros_planning'}
+[0.001722] (-) JobUnselected: {'identifier': 'moveit_ros_planning_interface'}
+[0.001728] (-) JobUnselected: {'identifier': 'moveit_ros_robot_interaction'}
+[0.001735] (-) JobUnselected: {'identifier': 'moveit_ros_tests'}
+[0.001742] (-) JobUnselected: {'identifier': 'moveit_ros_visualization'}
+[0.001749] (-) JobUnselected: {'identifier': 'moveit_ros_warehouse'}
+[0.001756] (-) JobUnselected: {'identifier': 'moveit_runtime'}
+[0.001763] (-) JobUnselected: {'identifier': 'moveit_servo'}
+[0.001770] (-) JobUnselected: {'identifier': 'moveit_setup_app_plugins'}
+[0.001777] (-) JobUnselected: {'identifier': 'moveit_setup_assistant'}
+[0.001784] (-) JobUnselected: {'identifier': 'moveit_setup_controllers'}
+[0.001790] (-) JobUnselected: {'identifier': 'moveit_setup_core_plugins'}
+[0.001799] (-) JobUnselected: {'identifier': 'moveit_setup_framework'}
+[0.001805] (-) JobUnselected: {'identifier': 'moveit_setup_srdf_plugins'}
+[0.001813] (-) JobUnselected: {'identifier': 'moveit_simple_controller_manager'}
+[0.001820] (-) JobUnselected: {'identifier': 'moveit_task_constructor_capabilities'}
+[0.001828] (-) JobUnselected: {'identifier': 'moveit_task_constructor_core'}
+[0.001835] (-) JobUnselected: {'identifier': 'moveit_task_constructor_demo'}
+[0.001842] (-) JobUnselected: {'identifier': 'moveit_task_constructor_msgs'}
+[0.001849] (-) JobUnselected: {'identifier': 'moveit_task_constructor_visualization'}
+[0.001878] (-) JobUnselected: {'identifier': 'moveit_visual_tools'}
+[0.001885] (-) JobUnselected: {'identifier': 'my_robot'}
+[0.001893] (-) JobUnselected: {'identifier': 'pick_ik'}
+[0.001902] (-) JobUnselected: {'identifier': 'pilz_industrial_motion_planner'}
+[0.001909] (-) JobUnselected: {'identifier': 'pilz_industrial_motion_planner_testutils'}
+[0.001917] (-) JobUnselected: {'identifier': 'robotiq_controllers'}
+[0.001924] (-) JobUnselected: {'identifier': 'robotiq_description'}
+[0.001932] (-) JobUnselected: {'identifier': 'robotiq_driver'}
+[0.001939] (-) JobUnselected: {'identifier': 'robotiq_hardware_tests'}
+[0.001946] (-) JobUnselected: {'identifier': 'rviz_marker_tools'}
+[0.001953] (-) JobUnselected: {'identifier': 'rviz_visual_tools'}
+[0.001961] (-) JobUnselected: {'identifier': 'serial'}
+[0.001972] (moveit_resources) JobQueued: {'identifier': 'moveit_resources', 'dependencies': OrderedDict([('moveit_resources_fanuc_description', '/root/ws_moveit/install/moveit_resources_fanuc_description'), ('moveit_resources_panda_description', '/root/ws_moveit/install/moveit_resources_panda_description'), ('moveit_resources_pr2_description', '/root/ws_moveit/install/moveit_resources_pr2_description'), ('moveit_resources_fanuc_moveit_config', '/root/ws_moveit/install/moveit_resources_fanuc_moveit_config'), ('moveit_resources_panda_moveit_config', '/root/ws_moveit/install/moveit_resources_panda_moveit_config')])}
+[0.001993] (moveit2_tutorials) JobQueued: {'identifier': 'moveit2_tutorials', 'dependencies': OrderedDict([('moveit_common', '/root/ws_moveit/install/moveit_common'), ('moveit_configs_utils', '/root/ws_moveit/install/moveit_configs_utils'), ('moveit_msgs', '/root/ws_moveit/install/moveit_msgs'), ('moveit_resources_fanuc_description', '/root/ws_moveit/install/moveit_resources_fanuc_description'), ('moveit_resources_panda_description', '/root/ws_moveit/install/moveit_resources_panda_description'), ('moveit_resources_pr2_description', '/root/ws_moveit/install/moveit_resources_pr2_description'), ('moveit_resources_prbt_support', '/root/ws_moveit/install/moveit_resources_prbt_support'), ('robotiq_description', '/root/ws_moveit/install/robotiq_description'), ('rviz_visual_tools', '/root/ws_moveit/install/rviz_visual_tools'), ('kortex_description', '/root/ws_moveit/install/kortex_description'), ('moveit_resources_fanuc_moveit_config', '/root/ws_moveit/install/moveit_resources_fanuc_moveit_config'), ('moveit_resources_panda_moveit_config', '/root/ws_moveit/install/moveit_resources_panda_moveit_config'), ('moveit_task_constructor_msgs', '/root/ws_moveit/install/moveit_task_constructor_msgs'), ('rviz_marker_tools', '/root/ws_moveit/install/rviz_marker_tools'), ('moveit_core', '/root/ws_moveit/install/moveit_core'), ('moveit_planners_stomp', '/root/ws_moveit/install/moveit_planners_stomp'), ('moveit_resources_prbt_ikfast_manipulator_plugin', '/root/ws_moveit/install/moveit_resources_prbt_ikfast_manipulator_plugin'), ('moveit_ros_occupancy_map_monitor', '/root/ws_moveit/install/moveit_ros_occupancy_map_monitor'), ('moveit_simple_controller_manager', '/root/ws_moveit/install/moveit_simple_controller_manager'), ('pick_ik', '/root/ws_moveit/install/pick_ik'), ('pilz_industrial_motion_planner_testutils', '/root/ws_moveit/install/pilz_industrial_motion_planner_testutils'), ('moveit_plugins', '/root/ws_moveit/install/moveit_plugins'), ('moveit_ros_planning', '/root/ws_moveit/install/moveit_ros_planning'), ('moveit_kinematics', '/root/ws_moveit/install/moveit_kinematics'), ('moveit_planners_ompl', '/root/ws_moveit/install/moveit_planners_ompl'), ('moveit_ros_perception', '/root/ws_moveit/install/moveit_ros_perception'), ('moveit_ros_robot_interaction', '/root/ws_moveit/install/moveit_ros_robot_interaction'), ('moveit_ros_warehouse', '/root/ws_moveit/install/moveit_ros_warehouse'), ('moveit_visual_tools', '/root/ws_moveit/install/moveit_visual_tools'), ('moveit_ros_benchmarks', '/root/ws_moveit/install/moveit_ros_benchmarks'), ('moveit_ros_move_group', '/root/ws_moveit/install/moveit_ros_move_group'), ('moveit_resources_prbt_moveit_config', '/root/ws_moveit/install/moveit_resources_prbt_moveit_config'), ('moveit_ros_planning_interface', '/root/ws_moveit/install/moveit_ros_planning_interface'), ('moveit_hybrid_planning', '/root/ws_moveit/install/moveit_hybrid_planning'), ('moveit_py', '/root/ws_moveit/install/moveit_py'), ('moveit_resources_prbt_pg70_support', '/root/ws_moveit/install/moveit_resources_prbt_pg70_support'), ('moveit_ros_visualization', '/root/ws_moveit/install/moveit_ros_visualization'), ('moveit_servo', '/root/ws_moveit/install/moveit_servo'), ('moveit_ros', '/root/ws_moveit/install/moveit_ros'), ('moveit_setup_framework', '/root/ws_moveit/install/moveit_setup_framework'), ('pilz_industrial_motion_planner', '/root/ws_moveit/install/pilz_industrial_motion_planner'), ('moveit_planners', '/root/ws_moveit/install/moveit_planners'), ('moveit_setup_app_plugins', '/root/ws_moveit/install/moveit_setup_app_plugins'), ('moveit_setup_controllers', '/root/ws_moveit/install/moveit_setup_controllers'), ('moveit_setup_core_plugins', '/root/ws_moveit/install/moveit_setup_core_plugins'), ('moveit_setup_srdf_plugins', '/root/ws_moveit/install/moveit_setup_srdf_plugins'), ('moveit_setup_assistant', '/root/ws_moveit/install/moveit_setup_assistant'), ('moveit_task_constructor_core', '/root/ws_moveit/install/moveit_task_constructor_core'), ('kinova_gen3_7dof_robotiq_2f_85_moveit_config', '/root/ws_moveit/install/kinova_gen3_7dof_robotiq_2f_85_moveit_config'), ('moveit', '/root/ws_moveit/install/moveit')])}
+[0.002053] (moveit_resources) JobStarted: {'identifier': 'moveit_resources'}
+[0.016759] (moveit_resources) JobEnded: {'identifier': 'moveit_resources', 'rc': 1}
+[0.018008] (moveit2_tutorials) JobStarted: {'identifier': 'moveit2_tutorials'}
+[0.022140] (moveit2_tutorials) JobEnded: {'identifier': 'moveit2_tutorials', 'rc': 1}
+[0.032445] (-) EventReactorShutdown: {}

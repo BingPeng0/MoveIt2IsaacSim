@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/root/ws_moveit/build/moveit2_tutorials/doc/examples/realtime_servo/pose_tracking_tutorial" "TARGETS" "pose_tracking_tutorial" "DESTINATION" "lib/moveit2_tutorials")

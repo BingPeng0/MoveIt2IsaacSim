@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/root/ws_moveit/build/moveit2_tutorials/doc/how_to_guides/kinematics_cost_function/kinematics_cost_function_tutorial" "TARGETS" "kinematics_cost_function_tutorial" "DESTINATION" "lib/moveit2_tutorials")

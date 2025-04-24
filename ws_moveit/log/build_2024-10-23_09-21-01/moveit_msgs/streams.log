@@ -1,0 +1,55 @@
+[0.057s] Invoking command in '/root/ws_moveit/build/moveit_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/root/ws_moveit/install/moveit_configs_utils:/opt/ros/humble /usr/bin/cmake --build /root/ws_moveit/build/moveit_msgs -- -j20 -l20
+[0.266s] [ 12%] Built target moveit_msgs__rosidl_generator_c
+[0.274s] [ 12%] Built target moveit_msgs__cpp
+[0.319s] [ 12%] Built target ament_cmake_python_copy_moveit_msgs
+[0.327s] [ 25%] Built target moveit_msgs__rosidl_typesupport_c
+[0.336s] [ 37%] Built target moveit_msgs__rosidl_typesupport_fastrtps_cpp
+[0.336s] [ 50%] Built target moveit_msgs__rosidl_typesupport_fastrtps_c
+[0.344s] [ 75%] Built target moveit_msgs__rosidl_typesupport_introspection_c
+[0.345s] [ 75%] Built target moveit_msgs__rosidl_typesupport_cpp
+[0.358s] [ 88%] Built target moveit_msgs__rosidl_typesupport_introspection_cpp
+[0.386s] [ 88%] Built target moveit_msgs
+[0.420s] [ 88%] Built target moveit_msgs__py
+[0.490s] [100%] Built target moveit_msgs__rosidl_generator_py
+[0.495s] running egg_info
+[0.507s] writing moveit_msgs.egg-info/PKG-INFO
+[0.507s] writing dependency_links to moveit_msgs.egg-info/dependency_links.txt
+[0.507s] writing top-level names to moveit_msgs.egg-info/top_level.txt
+[0.523s] [100%] Built target moveit_msgs__rosidl_typesupport_fastrtps_c__pyext
+[0.530s] [100%] Built target moveit_msgs__rosidl_typesupport_introspection_c__pyext
+[0.530s] [100%] Built target moveit_msgs__rosidl_typesupport_c__pyext
+[0.554s] reading manifest file 'moveit_msgs.egg-info/SOURCES.txt'
+[0.555s] Traceback (most recent call last):
+[0.555s]   File "/root/ws_moveit/build/moveit_msgs/ament_cmake_python/moveit_msgs/setup.py", line 4, in <module>
+[0.555s]     setup(
+[0.555s]   File "/usr/local/lib/python3.10/dist-packages/setuptools/__init__.py", line 117, in setup
+[0.555s]     return distutils.core.setup(**attrs)
+[0.555s]   File "/usr/local/lib/python3.10/dist-packages/setuptools/_distutils/core.py", line 183, in setup
+[0.555s]     return run_commands(dist)
+[0.555s]   File "/usr/local/lib/python3.10/dist-packages/setuptools/_distutils/core.py", line 199, in run_commands
+[0.555s]     dist.run_commands()
+[0.555s]   File "/usr/local/lib/python3.10/dist-packages/setuptools/_distutils/dist.py", line 954, in run_commands
+[0.555s]     self.run_command(cmd)
+[0.556s]   File "/usr/local/lib/python3.10/dist-packages/setuptools/dist.py", line 991, in run_command
+[0.556s]     super().run_command(command)
+[0.556s]   File "/usr/local/lib/python3.10/dist-packages/setuptools/_distutils/dist.py", line 973, in run_command
+[0.556s]     cmd_obj.run()
+[0.556s]   File "/usr/local/lib/python3.10/dist-packages/setuptools/command/egg_info.py", line 315, in run
+[0.556s]     self.find_sources()
+[0.556s]   File "/usr/local/lib/python3.10/dist-packages/setuptools/command/egg_info.py", line 323, in find_sources
+[0.556s]     mm.run()
+[0.556s]   File "/usr/local/lib/python3.10/dist-packages/setuptools/command/egg_info.py", line 549, in run
+[0.556s]     self.prune_file_list()
+[0.556s]   File "/usr/local/lib/python3.10/dist-packages/setuptools/command/sdist.py", line 161, in prune_file_list
+[0.556s]     super().prune_file_list()
+[0.556s]   File "/usr/local/lib/python3.10/dist-packages/setuptools/_distutils/command/sdist.py", line 380, in prune_file_list
+[0.556s]     base_dir = self.distribution.get_fullname()
+[0.556s]   File "/usr/local/lib/python3.10/dist-packages/setuptools/_core_metadata.py", line 267, in get_fullname
+[0.556s]     return _distribution_fullname(self.get_name(), self.get_version())
+[0.556s]   File "/usr/local/lib/python3.10/dist-packages/setuptools/_core_metadata.py", line 285, in _distribution_fullname
+[0.557s]     canonicalize_version(version, strip_trailing_zero=False),
+[0.557s] TypeError: canonicalize_version() got an unexpected keyword argument 'strip_trailing_zero'
+[0.576s] gmake[2]: *** [CMakeFiles/ament_cmake_python_build_moveit_msgs_egg.dir/build.make:70: CMakeFiles/ament_cmake_python_build_moveit_msgs_egg] Error 1
+[0.577s] gmake[1]: *** [CMakeFiles/Makefile2:447: CMakeFiles/ament_cmake_python_build_moveit_msgs_egg.dir/all] Error 2
+[0.577s] gmake: *** [Makefile:146: all] Error 2
+[0.589s] Invoked command in '/root/ws_moveit/build/moveit_msgs' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/root/ws_moveit/install/moveit_configs_utils:/opt/ros/humble /usr/bin/cmake --build /root/ws_moveit/build/moveit_msgs -- -j20 -l20

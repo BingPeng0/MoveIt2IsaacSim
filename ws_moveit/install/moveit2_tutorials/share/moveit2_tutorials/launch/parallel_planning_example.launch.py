@@ -1,0 +1,1 @@
+/root/ws_moveit/src/moveit2_tutorials/doc/how_to_guides/parallel_planning/launch/parallel_planning_example.launch.py

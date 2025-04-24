@@ -1,0 +1,31 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/root/ws_moveit/install/moveit_task_constructor_msgs/local/lib/python3.10/dist-packages",
+        "/root/ws_moveit/install/moveit_py/local/lib/python3.10/dist-packages",
+        "/root/ws_moveit/install/moveit_msgs/local/lib/python3.10/dist-packages",
+        "/root/ws_moveit/install/moveit_configs_utils/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/root/ws_moveit/install/moveit_task_constructor_msgs/local/lib/python3.10/dist-packages",
+        "/root/ws_moveit/install/moveit_py/local/lib/python3.10/dist-packages",
+        "/root/ws_moveit/install/moveit_msgs/local/lib/python3.10/dist-packages",
+        "/root/ws_moveit/install/moveit_configs_utils/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "files.associations": {
+        "hash_map": "cpp",
+        "hash_set": "cpp",
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "slist": "cpp",
+        "valarray": "cpp"
+    },
+    "cmake.sourceDirectory": "/root/ws_moveit/src/moveit2/moveit_py"
+}

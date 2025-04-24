@@ -1,0 +1,1 @@
+/root/ws_moveit/src/moveit2_tutorials/doc/examples/motion_planning_python_api/scripts/motion_planning_python_api_tutorial.py

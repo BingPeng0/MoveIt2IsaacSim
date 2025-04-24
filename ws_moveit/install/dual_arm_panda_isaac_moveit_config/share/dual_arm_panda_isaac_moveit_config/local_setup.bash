@@ -1,0 +1,1 @@
+/root/ws_moveit/build/dual_arm_panda_isaac_moveit_config/ament_cmake_environment_hooks/local_setup.bash

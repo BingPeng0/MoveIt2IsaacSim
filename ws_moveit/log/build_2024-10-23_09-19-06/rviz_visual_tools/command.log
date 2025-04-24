@@ -1,0 +1,1 @@
+Invoking command in '/root/ws_moveit/build/rviz_visual_tools': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/root/ws_moveit/install/moveit_configs_utils:/opt/ros/humble /usr/bin/cmake --build /root/ws_moveit/build/rviz_visual_tools -- -j20 -l20
