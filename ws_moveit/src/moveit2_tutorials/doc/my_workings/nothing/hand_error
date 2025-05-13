@@ -1,0 +1,289 @@
+[pnp_panda_python.py-1] [INFO] [1725352832.349021953] [moveit_py]: Planning trajectory
+[pnp_panda_python.py-1] [INFO] [1725352832.349300380] [moveit_py]: Calling PlanningRequestAdapter 'ResolveConstraintFrames'
+[pnp_panda_python.py-1] [INFO] [1725352832.349382246] [moveit_py]: Calling PlanningRequestAdapter 'ValidateWorkspaceBounds'
+[pnp_panda_python.py-1] [WARN] [1725352832.349407959] [moveit_2594124035.moveit.ros.validate_workspace_bounds]: It looks like the planning volume was not specified. Using default values.
+[pnp_panda_python.py-1] [INFO] [1725352832.349440191] [moveit_py]: Calling PlanningRequestAdapter 'CheckStartStateBounds'
+[pnp_panda_python.py-1] [INFO] [1725352832.349494719] [moveit_py]: Calling PlanningRequestAdapter 'CheckStartStateCollision'
+[pnp_panda_python.py-1] [INFO] [1725352832.349744550] [moveit_2594124035.moveit.planners.ompl.model_based_planning_context]: Planner configuration 'hand[RRTConnectkConfigDefault]' will use planner 'geometric::RRTConnect'. Additional configuration parameters will be set when the planner is constructed.
+[pnp_panda_python.py-1] [INFO] [1725352832.349807921] [moveit_py]: Calling Planner 'OMPL'
+[pnp_panda_python.py-1] [INFO] [1725352832.365095399] [moveit_py]: Calling PlanningResponseAdapter 'AddTimeOptimalParameterization'
+[pnp_panda_python.py-1] [INFO] [1725352832.365299077] [moveit_py]: Calling PlanningResponseAdapter 'ValidateSolution'
+[pnp_panda_python.py-1] [INFO] [1725352832.365332326] [moveit_py]: Calling PlanningResponseAdapter 'DisplayMotionPath'
+[pnp_panda_python.py-1] [INFO] [1725352832.366150358] [moveit_py]: Executing plan
+[pnp_panda_python.py-1] [INFO] [1725352832.366233503] [moveit_2594124035.moveit.plugins.simple_controller_manager]: Returned 2 controllers in list
+[pnp_panda_python.py-1] [INFO] [1725352832.366255457] [moveit_2594124035.moveit.plugins.simple_controller_manager]: Returned 2 controllers in list
+[pnp_panda_python.py-1] [INFO] [1725352832.366279828] [moveit_2594124035.moveit.plugins.simple_controller_manager]: Returned 2 controllers in list
+[pnp_panda_python.py-1] [INFO] [1725352832.366292323] [moveit_2594124035.moveit.plugins.simple_controller_manager]: Returned 2 controllers in list
+[pnp_panda_python.py-1] [INFO] [1725352832.366310664] [moveit_2594124035.moveit.ros.trajectory_execution_manager]: Validating trajectory with allowed_start_tolerance 0.01
+[pnp_panda_python.py-1] [INFO] [1725352832.368146048] [moveit_2594124035.moveit.ros.trajectory_execution_manager]: Starting trajectory execution ...
+[pnp_panda_python.py-1] [INFO] [1725352832.368231526] [moveit_2594124035.moveit.plugins.simple_controller_manager]: Returned 2 controllers in list
+[pnp_panda_python.py-1] [INFO] [1725352832.368271471] [moveit_2594124035.moveit.plugins.simple_controller_manager]: Returned 2 controllers in list
+[ros2_control_node-6] [INFO] [1725352832.368893740] [panda_hand_controller]: Received & accepted new action goal
+[pnp_panda_python.py-1] [INFO] [1725352832.747971219] [moveit_2594124035.moveit.ros.trajectory_execution_manager]: Completed trajectory execution with status SUCCEEDED ...
+
+[pnp_panda_python.py-1] [INFO] [1725352941.036649140] [moveit_py]: Planning trajectory
+[pnp_panda_python.py-1] [INFO] [1725352941.037127645] [moveit_py]: Calling PlanningRequestAdapter 'ResolveConstraintFrames'
+[pnp_panda_python.py-1] [INFO] [1725352941.037243593] [moveit_py]: Calling PlanningRequestAdapter 'ValidateWorkspaceBounds'
+[pnp_panda_python.py-1] [WARN] [1725352941.037271676] [moveit_3950106683.moveit.ros.validate_workspace_bounds]: It looks like the planning volume was not specified. Using default values.
+[pnp_panda_python.py-1] [INFO] [1725352941.037311962] [moveit_py]: Calling PlanningRequestAdapter 'CheckStartStateBounds'
+[pnp_panda_python.py-1] [INFO] [1725352941.037375465] [moveit_py]: Calling PlanningRequestAdapter 'CheckStartStateCollision'
+[pnp_panda_python.py-1] [INFO] [1725352941.037963256] [moveit_3950106683.moveit.planners.ompl.model_based_planning_context]: Planner configuration 'hand[RRTConnectkConfigDefault]' will use planner 'geometric::RRTConnect'. Additional configuration parameters will be set when the planner is constructed.
+[pnp_panda_python.py-1] [INFO] [1725352941.038247548] [moveit_py]: Calling Planner 'OMPL'
+[pnp_panda_python.py-1] [INFO] [1725352941.058203081] [moveit_py]: Calling PlanningResponseAdapter 'AddTimeOptimalParameterization'
+[pnp_panda_python.py-1] [INFO] [1725352941.058495444] [moveit_py]: Calling PlanningResponseAdapter 'ValidateSolution'
+[pnp_panda_python.py-1] [INFO] [1725352941.058533714] [moveit_py]: Calling PlanningResponseAdapter 'DisplayMotionPath'
+[pnp_panda_python.py-1] [INFO] [1725352941.058887229] [moveit_py]: Executing plan
+[pnp_panda_python.py-1] [INFO] [1725352941.058922678] [moveit_3950106683.moveit.plugins.simple_controller_manager]: Returned 2 controllers in list
+[pnp_panda_python.py-1] [INFO] [1725352941.058930397] [moveit_3950106683.moveit.plugins.simple_controller_manager]: Returned 2 controllers in list
+[pnp_panda_python.py-1] [INFO] [1725352941.058938893] [moveit_3950106683.moveit.plugins.simple_controller_manager]: Returned 2 controllers in list
+[pnp_panda_python.py-1] [INFO] [1725352941.058943121] [moveit_3950106683.moveit.plugins.simple_controller_manager]: Returned 2 controllers in list
+[pnp_panda_python.py-1] [INFO] [1725352941.058949540] [moveit_3950106683.moveit.ros.trajectory_execution_manager]: Validating trajectory with allowed_start_tolerance 0.01
+[pnp_panda_python.py-1] [INFO] [1725352941.064586320] [moveit_3950106683.moveit.ros.trajectory_execution_manager]: Starting trajectory execution ...
+[pnp_panda_python.py-1] [INFO] [1725352941.064632792] [moveit_3950106683.moveit.plugins.simple_controller_manager]: Returned 2 controllers in list
+[pnp_panda_python.py-1] [INFO] [1725352941.064651959] [moveit_3950106683.moveit.plugins.simple_controller_manager]: Returned 2 controllers in list
+[ros2_control_node-6] [INFO] [1725352941.064882856] [panda_hand_controller]: Received & accepted new action goal
+[pnp_panda_python.py-1] [WARN] [1725352942.029518684] [moveit.simple_controller_manager.gripper_controller_handle]: waitForExecution timed out
+[pnp_panda_python.py-1] [ERROR] [1725352942.029558108] [moveit_3950106683.moveit.ros.trajectory_execution_manager]: Controller is taking too long to execute trajectory (the expected upper bound for the trajectory execution was 0.964402 seconds). Stopping trajectory.
+[pnp_panda_python.py-1] [INFO] [1725352942.029581869] [moveit.simple_controller_manager.gripper_controller_handle]: Cancelling execution for panda_hand_controller
+[ros2_control_node-6] [INFO] [1725352942.029822402] [panda_hand_controller]: Got request to cancel goal
+[ros2_control_node-6] [INFO] [1725352942.029864117] [panda_hand_controller]: Canceling active action goal because cancel callback received.
+[pnp_panda_python.py-1] [INFO] [1725352942.030022657] [moveit_3950106683.moveit.ros.trajectory_execution_manager]: Completed trajectory execution with status TIMED_OUT ...
+
+[pnp_panda_python.py-1] [INFO] [1725353007.433497156] [moveit_py]: Planning trajectory
+[pnp_panda_python.py-1] [INFO] [1725353007.433840533] [moveit_py]: Calling PlanningRequestAdapter 'ResolveConstraintFrames'
+[pnp_panda_python.py-1] [INFO] [1725353007.433896089] [moveit_py]: Calling PlanningRequestAdapter 'ValidateWorkspaceBounds'
+[pnp_panda_python.py-1] [WARN] [1725353007.433908712] [moveit_3950106683.moveit.ros.validate_workspace_bounds]: It looks like the planning volume was not specified. Using default values.
+[pnp_panda_python.py-1] [INFO] [1725353007.433922712] [moveit_py]: Calling PlanningRequestAdapter 'CheckStartStateBounds'
+[pnp_panda_python.py-1] [INFO] [1725353007.433944977] [moveit_py]: Calling PlanningRequestAdapter 'CheckStartStateCollision'
+[pnp_panda_python.py-1] [INFO] [1725353007.434314499] [moveit_3950106683.moveit.planners.ompl.model_based_planning_context]: Planner configuration 'panda_arm[RRTConnectkConfigDefault]' will use planner 'geometric::RRTConnect'. Additional configuration parameters will be set when the planner is constructed.
+[pnp_panda_python.py-1] [INFO] [1725353007.434413410] [moveit_py]: Calling Planner 'OMPL'
+[pnp_panda_python.py-1] [INFO] [1725353007.455138894] [moveit_py]: Calling PlanningResponseAdapter 'AddTimeOptimalParameterization'
+[pnp_panda_python.py-1] [INFO] [1725353007.459026867] [moveit_py]: Calling PlanningResponseAdapter 'ValidateSolution'
+[pnp_panda_python.py-1] [INFO] [1725353007.459553788] [moveit_py]: Calling PlanningResponseAdapter 'DisplayMotionPath'
+[pnp_panda_python.py-1] [INFO] [1725353007.460736845] [moveit_py]: Executing plan
+[pnp_panda_python.py-1] [INFO] [1725353007.460832646] [moveit_3950106683.moveit.plugins.simple_controller_manager]: Returned 2 controllers in list
+[pnp_panda_python.py-1] [INFO] [1725353007.460856247] [moveit_3950106683.moveit.plugins.simple_controller_manager]: Returned 2 controllers in list
+[pnp_panda_python.py-1] [INFO] [1725353007.460890447] [moveit_3950106683.moveit.plugins.simple_controller_manager]: Returned 2 controllers in list
+[pnp_panda_python.py-1] [INFO] [1725353007.460904635] [moveit_3950106683.moveit.plugins.simple_controller_manager]: Returned 2 controllers in list
+[pnp_panda_python.py-1] [INFO] [1725353007.460942866] [moveit_3950106683.moveit.ros.trajectory_execution_manager]: Validating trajectory with allowed_start_tolerance 0.01
+[pnp_panda_python.py-1] [INFO] [1725353007.464829822] [moveit_3950106683.moveit.ros.trajectory_execution_manager]: Starting trajectory execution ...
+[pnp_panda_python.py-1] [INFO] [1725353007.464939528] [moveit_3950106683.moveit.plugins.simple_controller_manager]: Returned 2 controllers in list
+[pnp_panda_python.py-1] [INFO] [1725353007.465000508] [moveit_3950106683.moveit.plugins.simple_controller_manager]: Returned 2 controllers in list
+[pnp_panda_python.py-1] [INFO] [1725353007.465176952] [moveit.simple_controller_manager.follow_joint_trajectory_controller_handle]: sending trajectory to panda_arm_controller
+[ros2_control_node-6] [INFO] [1725353007.465496942] [panda_arm_controller]: Received new action goal
+[ros2_control_node-6] [INFO] [1725353007.465560897] [panda_arm_controller]: Accepted new action goal
+[pnp_panda_python.py-1] [INFO] [1725353007.465887681] [moveit.simple_controller_manager.follow_joint_trajectory_controller_handle]: panda_arm_controller started execution
+[pnp_panda_python.py-1] [INFO] [1725353007.465911768] [moveit.simple_controller_manager.follow_joint_trajectory_controller_handle]: Goal request accepted!
+[ros2_control_node-6] [INFO] [1725353009.224107312] [panda_arm_controller]: Goal reached, success!
+[pnp_panda_python.py-1] [INFO] [1725353009.265765820] [moveit.simple_controller_manager.follow_joint_trajectory_controller_handle]: Controller 'panda_arm_controller' successfully finished
+[pnp_panda_python.py-1] [INFO] [1725353009.294785425] [moveit_3950106683.moveit.ros.trajectory_execution_manager]: Completed trajectory execution with status SUCCEEDED ...
+
+[dual_arm_panda.py-1] [INFO] [1729233756.460416317] [moveit_py]: Planning hand for right side
+[dual_arm_panda.py-1] [INFO] [1729233756.460722020] [moveit_py]: Calling PlanningRequestAdapter 'ResolveConstraintFrames'
+[dual_arm_panda.py-1] [INFO] [1729233756.460763905] [moveit_py]: Calling PlanningRequestAdapter 'ValidateWorkspaceBounds'
+[dual_arm_panda.py-1] [WARN] [1729233756.460769005] [moveit_3520350658.moveit.ros.validate_workspace_bounds]: It looks like the planning volume was not specified. Using default values.
+[dual_arm_panda.py-1] [INFO] [1729233756.460776831] [moveit_py]: Calling PlanningRequestAdapter 'CheckStartStateBounds'
+[dual_arm_panda.py-1] [INFO] [1729233756.460790552] [moveit_py]: Calling PlanningRequestAdapter 'CheckStartStateCollision'
+[dual_arm_panda.py-1] [WARN] [1729233756.460832725] [moveit_3520350658.moveit.planners.ompl.planning_context_manager]: Cannot find planning configuration for group 'right_hand' using planner 'RRTConnectkConfigDefault'. Will use defaults instead.
+[dual_arm_panda.py-1] [INFO] [1729233756.460947447] [moveit_3520350658.moveit.planners.ompl.model_based_planning_context]: Planner configuration 'right_hand' will use planner 'geometric::RRTConnect'. Additional configuration parameters will be set when the planner is constructed.
+[dual_arm_panda.py-1] [INFO] [1729233756.460984183] [moveit_py]: Calling Planner 'OMPL'
+[dual_arm_panda.py-1] [INFO] [1729233756.479631749] [moveit_py]: Calling PlanningResponseAdapter 'AddTimeOptimalParameterization'
+[dual_arm_panda.py-1] [INFO] [1729233756.480083270] [moveit_py]: Calling PlanningResponseAdapter 'ValidateSolution'
+[dual_arm_panda.py-1] [INFO] [1729233756.480213548] [moveit_py]: Calling PlanningResponseAdapter 'DisplayMotionPath'
+[dual_arm_panda.py-1] [INFO] [1729233756.480572568] [moveit_py]: Executing plan
+[dual_arm_panda.py-1] [INFO] [1729233756.480886566] [moveit_3520350658.moveit.ros.trajectory_execution_manager]: Validating trajectory with allowed_start_tolerance 0.01
+[dual_arm_panda.py-1] [INFO] [1729233756.485944810] [moveit_3520350658.moveit.ros.trajectory_execution_manager]: Starting trajectory execution ...
+[dual_arm_panda.py-1] [WARN] [1729233756.486139874] [moveit.simple_controller_manager.gripper_controller_handle]: No command_joint was specified for the MoveIt controller gripper handle.                       Please see GripperControllerHandle::addCommandJoint() and                       GripperControllerHandle::setCommandJoint(). Assuming index 0.
+[ros2_control_node-7] [INFO] [1729233756.486297399] [right_hand_controller]: Received & accepted new action goal
+[dual_arm_panda.py-1] [WARN] [1729233757.536651842] [moveit_3520350658.moveit.ros.trajectory_execution_manager]: Controller handle /right_hand_controller reports status ABORTED
+[dual_arm_panda.py-1] [INFO] [1729233757.536678586] [moveit_3520350658.moveit.ros.trajectory_execution_manager]: Completed trajectory execution with status ABORTED ...
+
+
+
+
+[dual_arm_panda.py-1] [INFO] [1729233798.989714866] [moveit_py]: Planning hand for left side
+[dual_arm_panda.py-1] [INFO] [1729233798.990166000] [moveit_py]: Calling PlanningRequestAdapter 'ResolveConstraintFrames'
+[dual_arm_panda.py-1] [INFO] [1729233798.990230143] [moveit_py]: Calling PlanningRequestAdapter 'ValidateWorkspaceBounds'
+[dual_arm_panda.py-1] [WARN] [1729233798.990246987] [moveit_3520350658.moveit.ros.validate_workspace_bounds]: It looks like the planning volume was not specified. Using default values.
+[dual_arm_panda.py-1] [INFO] [1729233798.990271991] [moveit_py]: Calling PlanningRequestAdapter 'CheckStartStateBounds'
+[dual_arm_panda.py-1] [INFO] [1729233798.990326519] [moveit_py]: Calling PlanningRequestAdapter 'CheckStartStateCollision'
+[dual_arm_panda.py-1] [WARN] [1729233798.990453194] [moveit_3520350658.moveit.planners.ompl.planning_context_manager]: Cannot find planning configuration for group 'left_hand' using planner 'RRTConnectkConfigDefault'. Will use defaults instead.
+[dual_arm_panda.py-1] [INFO] [1729233798.990756503] [moveit_3520350658.moveit.planners.ompl.model_based_planning_context]: Planner configuration 'left_hand' will use planner 'geometric::RRTConnect'. Additional configuration parameters will be set when the planner is constructed.
+[dual_arm_panda.py-1] [INFO] [1729233798.990843539] [moveit_py]: Calling Planner 'OMPL'
+[dual_arm_panda.py-1] [INFO] [1729233799.019749836] [moveit_py]: Calling PlanningResponseAdapter 'AddTimeOptimalParameterization'
+[dual_arm_panda.py-1] [INFO] [1729233799.020830128] [moveit_py]: Calling PlanningResponseAdapter 'ValidateSolution'
+[dual_arm_panda.py-1] [INFO] [1729233799.021467079] [moveit_py]: Calling PlanningResponseAdapter 'DisplayMotionPath'
+[dual_arm_panda.py-1] [INFO] [1729233799.022988309] [moveit_py]: Executing plan
+[dual_arm_panda.py-1] [INFO] [1729233799.023977766] [moveit_3520350658.moveit.ros.trajectory_execution_manager]: Validating trajectory with allowed_start_tolerance 0.01
+[dual_arm_panda.py-1] [INFO] [1729233799.037084904] [moveit_3520350658.moveit.ros.trajectory_execution_manager]: Starting trajectory execution ...
+[dual_arm_panda.py-1] [WARN] [1729233799.037293759] [moveit.simple_controller_manager.gripper_controller_handle]: No command_joint was specified for the MoveIt controller gripper handle.                       Please see GripperControllerHandle::addCommandJoint() and                       GripperControllerHandle::setCommandJoint(). Assuming index 0.
+[ros2_control_node-7] [INFO] [1729233799.037393083] [left_hand_controller]: Received & accepted new action goal
+[dual_arm_panda.py-1] [INFO] [1729233799.367641898] [moveit_3520350658.moveit.ros.trajectory_execution_manager]: Completed trajectory execution with status SUCCEEDED ...
+
+
+
+
+
+#### Only One Arm is Executed
+[dual_arm_panda.py-1] [INFO] [1729238942.120851031] [moveit_py]: Started Simultaneous Execution
+[dual_arm_panda.py-1] [INFO] [1729238942.121780532] [moveit_py]: Planning arm for left side
+[dual_arm_panda.py-1] [INFO] [1729238942.121986106] [moveit_py]: Calling PlanningRequestAdapter 'ResolveConstraintFrames'
+[dual_arm_panda.py-1] [INFO] [1729238942.122017358] [moveit_py]: Calling PlanningRequestAdapter 'ValidateWorkspaceBounds'
+[dual_arm_panda.py-1] [WARN] [1729238942.122020888] [moveit_2775093837.moveit.ros.validate_workspace_bounds]: It looks like the planning volume was not specified. Using default values.
+[dual_arm_panda.py-1] [INFO] [1729238942.122028849] [moveit_py]: Calling PlanningRequestAdapter 'CheckStartStateBounds'
+[dual_arm_panda.py-1] [INFO] [1729238942.122056025] [moveit_py]: Calling PlanningRequestAdapter 'CheckStartStateCollision'
+[dual_arm_panda.py-1] [WARN] [1729238942.122105781] [moveit_2775093837.moveit.planners.ompl.planning_context_manager]: Cannot find planning configuration for group 'left_panda_arm' using planner 'RRTConnectkConfigDefault'. Will use defaults instead.
+[dual_arm_panda.py-1] [INFO] [1729238942.122257637] [moveit_2775093837.moveit.planners.ompl.model_based_planning_context]: Planner configuration 'left_panda_arm' will use planner 'geometric::RRTConnect'. Additional configuration parameters will be set when the planner is constructed.
+[dual_arm_panda.py-1] [INFO] [1729238942.122303547] [moveit_py]: Calling Planner 'OMPL'
+[dual_arm_panda.py-1] [INFO] [1729238942.125266114] [moveit_py]: Calling PlanningResponseAdapter 'AddTimeOptimalParameterization'
+[dual_arm_panda.py-1] [INFO] [1729238942.125819702] [moveit_py]: Calling PlanningResponseAdapter 'ValidateSolution'
+[dual_arm_panda.py-1] [INFO] [1729238942.126051673] [moveit_py]: Calling PlanningResponseAdapter 'DisplayMotionPath'
+[dual_arm_panda.py-1] [INFO] [1729238942.126177857] [moveit_py]: Planning arm for right side
+[dual_arm_panda.py-1] [INFO] [1729238942.126326132] [moveit_py]: Calling PlanningRequestAdapter 'ResolveConstraintFrames'
+[dual_arm_panda.py-1] [INFO] [1729238942.126349842] [moveit_py]: Calling PlanningRequestAdapter 'ValidateWorkspaceBounds'
+[dual_arm_panda.py-1] [WARN] [1729238942.126353447] [moveit_2775093837.moveit.ros.validate_workspace_bounds]: It looks like the planning volume was not specified. Using default values.
+[dual_arm_panda.py-1] [INFO] [1729238942.126360933] [moveit_py]: Calling PlanningRequestAdapter 'CheckStartStateBounds'
+[dual_arm_panda.py-1] [INFO] [1729238942.126372253] [moveit_py]: Calling PlanningRequestAdapter 'CheckStartStateCollision'
+[dual_arm_panda.py-1] [WARN] [1729238942.126416247] [moveit_2775093837.moveit.planners.ompl.planning_context_manager]: Cannot find planning configuration for group 'right_panda_arm' using planner 'RRTConnectkConfigDefault'. Will use defaults instead.
+[dual_arm_panda.py-1] [INFO] [1729238942.126526303] [moveit_2775093837.moveit.planners.ompl.model_based_planning_context]: Planner configuration 'right_panda_arm' will use planner 'geometric::RRTConnect'. Additional configuration parameters will be set when the planner is constructed.
+[dual_arm_panda.py-1] [INFO] [1729238942.126571585] [moveit_py]: Calling Planner 'OMPL'
+[dual_arm_panda.py-1] [INFO] [1729238942.139903526] [moveit_py]: Calling PlanningResponseAdapter 'AddTimeOptimalParameterization'
+[dual_arm_panda.py-1] [INFO] [1729238942.140482845] [moveit_py]: Calling PlanningResponseAdapter 'ValidateSolution'
+[dual_arm_panda.py-1] [INFO] [1729238942.140710871] [moveit_py]: Calling PlanningResponseAdapter 'DisplayMotionPath'
+[dual_arm_panda.py-1] [INFO] [1729238942.141469484] [moveit_py]: Executing plan
+[dual_arm_panda.py-1] [INFO] [1729238942.141540307] [moveit_py]: Executing plan
+[dual_arm_panda.py-1] [ERROR] [1729238942.141571649] [moveit_2775093837.moveit.ros.moveit_cpp]: Execution failed! No active controllers configured for group 'right_panda_arm'
+[dual_arm_panda.py-1] [INFO] [1729238942.141922272] [moveit_2775093837.moveit.ros.trajectory_execution_manager]: Validating trajectory with allowed_start_tolerance 0.01
+[dual_arm_panda.py-1] [INFO] [1729238942.150875043] [moveit_2775093837.moveit.ros.trajectory_execution_manager]: Starting trajectory execution ...
+[dual_arm_panda.py-1] [INFO] [1729238942.151043830] [moveit.simple_controller_manager.follow_joint_trajectory_controller_handle]: sending trajectory to /left_arm_controller
+[ros2_control_node-7] [INFO] [1729238942.151245949] [left_arm_controller]: Received new action goal
+[ros2_control_node-7] [INFO] [1729238942.151298186] [left_arm_controller]: Accepted new action goal
+[dual_arm_panda.py-1] [INFO] [1729238942.151778950] [moveit.simple_controller_manager.follow_joint_trajectory_controller_handle]: /left_arm_controller started execution
+[dual_arm_panda.py-1] [INFO] [1729238942.151801488] [moveit.simple_controller_manager.follow_joint_trajectory_controller_handle]: Goal request accepted!
+[ros2_control_node-7] [INFO] [1729238943.910635701] [left_arm_controller]: Goal reached, success!
+[dual_arm_panda.py-1] [INFO] [1729238943.951772400] [moveit.simple_controller_manager.follow_joint_trajectory_controller_handle]: Controller '/left_arm_controller' successfully finished
+[dual_arm_panda.py-1] [INFO] [1729238943.980825504] [moveit_2775093837.moveit.ros.trajectory_execution_manager]: Completed trajectory execution with status SUCCEEDED ...
+[dual_arm_panda.py-1] [INFO] [1729238944.982170007] [moveit_py]: Both arms finished execution
+
+
+
+
+#### Both arms did not execute and TkinterGUI die (Not sure about the moveit)
+[dual_arm_panda.py-1] [INFO] [1729239065.102723609] [moveit_py]: Started Simultaneous Execution
+[dual_arm_panda.py-1] [INFO] [1729239065.104250713] [moveit_py]: Planning arm for left side
+[dual_arm_panda.py-1] [INFO] [1729239065.105334370] [moveit_py]: Calling PlanningRequestAdapter 'ResolveConstraintFrames'
+[dual_arm_panda.py-1] [INFO] [1729239065.105595681] [moveit_py]: Calling PlanningRequestAdapter 'ValidateWorkspaceBounds'
+[dual_arm_panda.py-1] [WARN] [1729239065.105637617] [moveit_2775093837.moveit.ros.validate_workspace_bounds]: It looks like the planning volume was not specified. Using default values.
+[dual_arm_panda.py-1] [INFO] [1729239065.105672797] [moveit_py]: Calling PlanningRequestAdapter 'CheckStartStateBounds'
+[dual_arm_panda.py-1] [INFO] [1729239065.105728631] [moveit_py]: Calling PlanningRequestAdapter 'CheckStartStateCollision'
+[dual_arm_panda.py-1] [WARN] [1729239065.105893850] [moveit_2775093837.moveit.planners.ompl.planning_context_manager]: Cannot find planning configuration for group 'left_panda_arm' using planner 'RRTConnectkConfigDefault'. Will use defaults instead.
+[dual_arm_panda.py-1] [INFO] [1729239065.106258360] [moveit_2775093837.moveit.planners.ompl.model_based_planning_context]: Planner configuration 'left_panda_arm' will use planner 'geometric::RRTConnect'. Additional configuration parameters will be set when the planner is constructed.
+[dual_arm_panda.py-1] [INFO] [1729239065.106371209] [moveit_py]: Calling Planner 'OMPL'
+[dual_arm_panda.py-1] [INFO] [1729239065.130819079] [moveit_py]: Calling PlanningResponseAdapter 'AddTimeOptimalParameterization'
+[dual_arm_panda.py-1] [INFO] [1729239065.131523087] [moveit_py]: Calling PlanningResponseAdapter 'ValidateSolution'
+[dual_arm_panda.py-1] [INFO] [1729239065.132097271] [moveit_py]: Calling PlanningResponseAdapter 'DisplayMotionPath'
+[dual_arm_panda.py-1] [INFO] [1729239065.133808614] [moveit_py]: Executing plan
+[dual_arm_panda.py-1] [INFO] [1729239065.133978636] [moveit_py]: Planning arm for right side
+[dual_arm_panda.py-1] [INFO] [1729239065.134258101] [moveit_py]: Calling PlanningRequestAdapter 'ResolveConstraintFrames'
+[dual_arm_panda.py-1] [INFO] [1729239065.134290454] [moveit_2775093837.moveit.ros.trajectory_execution_manager]: Validating trajectory with allowed_start_tolerance 0.01
+[dual_arm_panda.py-1] [INFO] [1729239065.134307563] [moveit_py]: Calling PlanningRequestAdapter 'ValidateWorkspaceBounds'
+[dual_arm_panda.py-1] [WARN] [1729239065.134318521] [moveit_2775093837.moveit.ros.validate_workspace_bounds]: It looks like the planning volume was not specified. Using default values.
+[dual_arm_panda.py-1] [INFO] [1729239065.134336929] [moveit_py]: Calling PlanningRequestAdapter 'CheckStartStateBounds'
+[dual_arm_panda.py-1] [INFO] [1729239065.134365330] [moveit_py]: Calling PlanningRequestAdapter 'CheckStartStateCollision'
+[dual_arm_panda.py-1] [WARN] [1729239065.134541624] [moveit_2775093837.moveit.planners.ompl.planning_context_manager]: Cannot find planning configuration for group 'right_panda_arm' using planner 'RRTConnectkConfigDefault'. Will use defaults instead.
+[dual_arm_panda.py-1] [INFO] [1729239065.135030636] [moveit_2775093837.moveit.planners.ompl.model_based_planning_context]: Planner configuration 'right_panda_arm' will use planner 'geometric::RRTConnect'. Additional configuration parameters will be set when the planner is constructed.
+[dual_arm_panda.py-1] [INFO] [1729239065.135195003] [moveit_py]: Calling Planner 'OMPL'
+[dual_arm_panda.py-1] [INFO] [1729239065.140655851] [moveit_2775093837.moveit.ros.trajectory_execution_manager]: Starting trajectory execution ...
+[dual_arm_panda.py-1] [INFO] [1729239065.140832970] [moveit.simple_controller_manager.follow_joint_trajectory_controller_handle]: sending trajectory to /left_arm_controller
+[ros2_control_node-7] [INFO] [1729239065.141011797] [left_arm_controller]: Received new action goal
+[ros2_control_node-7] [INFO] [1729239065.141051450] [left_arm_controller]: Accepted new action goal
+[dual_arm_panda.py-1] [INFO] [1729239065.141145730] [moveit.simple_controller_manager.follow_joint_trajectory_controller_handle]: /left_arm_controller started execution
+[dual_arm_panda.py-1] [INFO] [1729239065.141156972] [moveit.simple_controller_manager.follow_joint_trajectory_controller_handle]: Goal request accepted!
+[dual_arm_panda.py-1] [INFO] [1729239065.150591231] [moveit_py]: Calling PlanningResponseAdapter 'AddTimeOptimalParameterization'
+[dual_arm_panda.py-1] [INFO] [1729239065.151476098] [moveit_py]: Calling PlanningResponseAdapter 'ValidateSolution'
+[dual_arm_panda.py-1] [INFO] [1729239065.151868987] [moveit_py]: Calling PlanningResponseAdapter 'DisplayMotionPath'
+[dual_arm_panda.py-1] [INFO] [1729239065.152330404] [moveit_py]: Executing plan
+[dual_arm_panda.py-1] [ERROR] [1729239065.152426169] [moveit_2775093837.moveit.ros.trajectory_execution_manager]: Cannot push a new trajectory while another is being executed
+[dual_arm_panda.py-1] [INFO] [1729239065.152442892] [moveit.simple_controller_manager.follow_joint_trajectory_controller_handle]: Cancelling execution for /left_arm_controller
+[ros2_control_node-7] [INFO] [1729239065.152605687] [left_arm_controller]: Got request to cancel goal
+[ros2_control_node-7] [INFO] [1729239065.152631430] [left_arm_controller]: Canceling active action goal because cancel callback received.
+[dual_arm_panda.py-1] [INFO] [1729239065.152808977] [moveit_2775093837.moveit.ros.trajectory_execution_manager]: Stopped trajectory execution.
+[dual_arm_panda.py-1] [INFO] [1729239065.191413503] [moveit.simple_controller_manager.follow_joint_trajectory_controller_handle]: Controller '/left_arm_controller' successfully finished
+[dual_arm_panda.py-1] [INFO] [1729239065.191448356] [moveit_2775093837.moveit.ros.trajectory_execution_manager]: Completed trajectory execution with status PREEMPTED ...
+[dual_arm_panda.py-1] [INFO] [1729239065.191532762] [moveit_2775093837.moveit.ros.trajectory_execution_manager]: Starting trajectory execution ...
+[ERROR] [dual_arm_panda.py-1]: process has died [pid 67358, exit code -11, cmd '/root/ws_moveit/install/moveit2_tutorials/lib/moveit2_tutorials/dual_arm_panda.py --ros-args -r __node:=moveit_py --params-file /tmp/launch_params_t0abzwke'].
+
+
+[dual_arm_panda.py-1] [INFO] [1729588741.901856355] [moveit_py]: Stage 1
+[dual_arm_panda.py-1] [INFO] [1729588741.903494836] [moveit_py]: Subscription to tf_sphere_left_arm created
+[dual_arm_panda.py-1] [INFO] [1729588741.908543696] [moveit_py]: Received position: {'x': 0.48150935769081116, 'y': 0.051639631390571594, 'z': 0.6547598242759705}
+[dual_arm_panda.py-1] [INFO] [1729588741.909361796] [moveit_py]: Subscription destroyed
+[dual_arm_panda.py-1] [INFO] [1729588742.904893730] [moveit_py]: Subscription to tf_sphere_right_arm created
+[dual_arm_panda.py-1] [INFO] [1729588742.917059704] [moveit_py]: Received position: {'x': 0.5571128129959106, 'y': 0.4105009436607361, 'z': 0.33665525913238525}
+[dual_arm_panda.py-1] [INFO] [1729588742.917646056] [moveit_py]: Subscription destroyed
+
+
+[dual_arm_panda.py-1] [INFO] [1729588743.906081785] [moveit_py]: Planning both_arms for both side
+[dual_arm_panda.py-1] [INFO] [1729588743.906346470] [moveit_py]: Calling PlanningRequestAdapter 'ResolveConstraintFrames'
+[dual_arm_panda.py-1] [INFO] [1729588743.906395588] [moveit_py]: Calling PlanningRequestAdapter 'ValidateWorkspaceBounds'
+[dual_arm_panda.py-1] [WARN] [1729588743.906401303] [moveit_2168635760.moveit.ros.validate_workspace_bounds]: It looks like the planning volume was not specified. Using default values.
+[dual_arm_panda.py-1] [INFO] [1729588743.906409542] [moveit_py]: Calling PlanningRequestAdapter 'CheckStartStateBounds'
+[dual_arm_panda.py-1] [INFO] [1729588743.906422863] [moveit_py]: Calling PlanningRequestAdapter 'CheckStartStateCollision'
+[dual_arm_panda.py-1] [WARN] [1729588743.906481039] [moveit_2168635760.moveit.planners.ompl.planning_context_manager]: Cannot find planning configuration for group 'both_arms' using planner 'RRTConnectkConfigDefault'. Will use defaults instead.
+[dual_arm_panda.py-1] [INFO] [1729588743.906670255] [moveit_2168635760.moveit.planners.ompl.model_based_planning_context]: Planner configuration 'both_arms' will use planner 'geometric::RRTConnect'. Additional configuration parameters will be set when the planner is constructed.
+[dual_arm_panda.py-1] [INFO] [1729588743.906712281] [moveit_py]: Calling Planner 'OMPL'
+[dual_arm_panda.py-1] [INFO] [1729588743.932101780] [moveit_py]: Calling PlanningResponseAdapter 'AddTimeOptimalParameterization'
+[dual_arm_panda.py-1] [INFO] [1729588743.932553369] [moveit_py]: Calling PlanningResponseAdapter 'ValidateSolution'
+[dual_arm_panda.py-1] [INFO] [1729588743.932809936] [moveit_py]: Calling PlanningResponseAdapter 'DisplayMotionPath'
+[dual_arm_panda.py-1] [INFO] [1729588743.933179594] [moveit_py]: Executing plan
+[dual_arm_panda.py-1] [INFO] [1729588743.933588048] [moveit_2168635760.moveit.ros.trajectory_execution_manager]: Validating trajectory with allowed_start_tolerance 0.01
+[dual_arm_panda.py-1] [INFO] [1729588743.939517503] [moveit_2168635760.moveit.ros.trajectory_execution_manager]: Starting trajectory execution ...
+[dual_arm_panda.py-1] [INFO] [1729588743.939657696] [moveit.simple_controller_manager.follow_joint_trajectory_controller_handle]: sending trajectory to /left_arm_controller
+[ros2_control_node-6] [INFO] [1729588743.939812999] [left_arm_controller]: Received new action goal
+[ros2_control_node-6] [INFO] [1729588743.939847075] [left_arm_controller]: Accepted new action goal
+[dual_arm_panda.py-1] [INFO] [1729588743.939933551] [moveit.simple_controller_manager.follow_joint_trajectory_controller_handle]: /left_arm_controller started execution
+[dual_arm_panda.py-1] [INFO] [1729588743.939944125] [moveit.simple_controller_manager.follow_joint_trajectory_controller_handle]: Goal request accepted!
+[dual_arm_panda.py-1] [INFO] [1729588743.939973640] [moveit.simple_controller_manager.follow_joint_trajectory_controller_handle]: sending trajectory to /right_arm_controller
+[ros2_control_node-6] [INFO] [1729588743.940069609] [right_arm_controller]: Received new action goal
+[ros2_control_node-6] [INFO] [1729588743.940086222] [right_arm_controller]: Accepted new action goal
+[dual_arm_panda.py-1] [INFO] [1729588743.940136031] [moveit.simple_controller_manager.follow_joint_trajectory_controller_handle]: /right_arm_controller started execution
+[dual_arm_panda.py-1] [INFO] [1729588743.940138498] [moveit.simple_controller_manager.follow_joint_trajectory_controller_handle]: Goal request accepted!
+[ros2_control_node-6] [INFO] [1729588745.389115810] [right_arm_controller]: Goal reached, success!
+[ros2_control_node-6] [INFO] [1729588745.389152409] [left_arm_controller]: Goal reached, success!
+[dual_arm_panda.py-1] [INFO] [1729588745.390203859] [moveit.simple_controller_manager.follow_joint_trajectory_controller_handle]: Controller '/left_arm_controller' successfully finished
+[dual_arm_panda.py-1] [INFO] [1729588745.390405453] [moveit.simple_controller_manager.follow_joint_trajectory_controller_handle]: Controller '/right_arm_controller' successfully finished
+[dual_arm_panda.py-1] [INFO] [1729588745.419925637] [moveit_2168635760.moveit.ros.trajectory_execution_manager]: Completed trajectory execution with status SUCCEEDED ...
+[dual_arm_panda.py-1] [INFO] [1729588746.421439375] [moveit_py]: Stage 2
+
+
+[dual_arm_panda.py-1] [INFO] [1729588867.602006058] [moveit_py]: Planning both_arms for both side
+[dual_arm_panda.py-1] [INFO] [1729588867.602290090] [moveit_py]: Calling PlanningRequestAdapter 'ResolveConstraintFrames'
+[dual_arm_panda.py-1] [INFO] [1729588867.602332653] [moveit_py]: Calling PlanningRequestAdapter 'ValidateWorkspaceBounds'
+[dual_arm_panda.py-1] [WARN] [1729588867.602342928] [moveit_2168635760.moveit.ros.validate_workspace_bounds]: It looks like the planning volume was not specified. Using default values.
+[dual_arm_panda.py-1] [INFO] [1729588867.602359006] [moveit_py]: Calling PlanningRequestAdapter 'CheckStartStateBounds'
+[dual_arm_panda.py-1] [INFO] [1729588867.602386472] [moveit_py]: Calling PlanningRequestAdapter 'CheckStartStateCollision'
+[dual_arm_panda.py-1] [WARN] [1729588867.602469240] [moveit_2168635760.moveit.planners.ompl.planning_context_manager]: Cannot find planning configuration for group 'both_arms' using planner 'RRTConnectkConfigDefault'. Will use defaults instead.
+[dual_arm_panda.py-1] [INFO] [1729588867.602666368] [moveit_2168635760.moveit.planners.ompl.model_based_planning_context]: Planner configuration 'both_arms' will use planner 'geometric::RRTConnect'. Additional configuration parameters will be set when the planner is constructed.
+[dual_arm_panda.py-1] [INFO] [1729588867.602714981] [moveit_py]: Calling Planner 'OMPL'
+[dual_arm_panda.py-1] [INFO] [1729588867.630461282] [moveit_py]: Calling PlanningResponseAdapter 'AddTimeOptimalParameterization'
+[dual_arm_panda.py-1] [INFO] [1729588867.632465355] [moveit_py]: Calling PlanningResponseAdapter 'ValidateSolution'
+[dual_arm_panda.py-1] [INFO] [1729588867.633176260] [moveit_py]: Calling PlanningResponseAdapter 'DisplayMotionPath'
+[dual_arm_panda.py-1] [INFO] [1729588867.633559214] [moveit_py]: Executing plan
+[dual_arm_panda.py-1] [INFO] [1729588867.633986031] [moveit_2168635760.moveit.ros.trajectory_execution_manager]: Validating trajectory with allowed_start_tolerance 0.01
+[dual_arm_panda.py-1] [INFO] [1729588867.639474369] [moveit_2168635760.moveit.ros.trajectory_execution_manager]: Starting trajectory execution ...
+[dual_arm_panda.py-1] [INFO] [1729588867.639615502] [moveit.simple_controller_manager.follow_joint_trajectory_controller_handle]: sending trajectory to /left_arm_controller
+[ros2_control_node-6] [INFO] [1729588867.639792347] [left_arm_controller]: Received new action goal
+[ros2_control_node-6] [INFO] [1729588867.639828164] [left_arm_controller]: Accepted new action goal
+[dual_arm_panda.py-1] [INFO] [1729588867.639912577] [moveit.simple_controller_manager.follow_joint_trajectory_controller_handle]: /left_arm_controller started execution
+[dual_arm_panda.py-1] [INFO] [1729588867.639926153] [moveit.simple_controller_manager.follow_joint_trajectory_controller_handle]: Goal request accepted!
+[dual_arm_panda.py-1] [INFO] [1729588867.639958816] [moveit.simple_controller_manager.follow_joint_trajectory_controller_handle]: sending trajectory to /right_arm_controller
+[ros2_control_node-6] [INFO] [1729588867.640072704] [right_arm_controller]: Received new action goal
+[ros2_control_node-6] [INFO] [1729588867.640102843] [right_arm_controller]: Accepted new action goal
+[dual_arm_panda.py-1] [INFO] [1729588867.640178725] [moveit.simple_controller_manager.follow_joint_trajectory_controller_handle]: /right_arm_controller started execution
+[dual_arm_panda.py-1] [INFO] [1729588867.640187331] [moveit.simple_controller_manager.follow_joint_trajectory_controller_handle]: Goal request accepted!
+[ros2_control_node-6] [INFO] [1729588869.589335224] [right_arm_controller]: Goal reached, success!
+[ros2_control_node-6] [INFO] [1729588869.589390870] [left_arm_controller]: Goal reached, success!
+[dual_arm_panda.py-1] [INFO] [1729588869.590199569] [moveit.simple_controller_manager.follow_joint_trajectory_controller_handle]: Controller '/left_arm_controller' successfully finished
+[dual_arm_panda.py-1] [INFO] [1729588869.590434714] [moveit.simple_controller_manager.follow_joint_trajectory_controller_handle]: Controller '/right_arm_controller' successfully finished
+[dual_arm_panda.py-1] [INFO] [1729588869.619520170] [moveit_2168635760.moveit.ros.trajectory_execution_manager]: Completed trajectory execution with status SUCCEEDED ...
+
