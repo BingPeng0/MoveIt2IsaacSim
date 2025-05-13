@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  urdf:
+    package: moveit_resources_pr2_description
+    relative_path: urdf/robot.xml
+  srdf:
+    relative_path: config/pr2.srdf
+  package_settings:
+    author_name: U2221509A
+    author_email: no@gmail.com
+    generated_timestamp: 1735899985

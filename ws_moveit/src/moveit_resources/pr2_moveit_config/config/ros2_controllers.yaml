@@ -1,0 +1,69 @@
+# This config file is used by ros2_control
+controller_manager:
+  ros__parameters:
+    update_rate: 100  # Hz
+
+    left_arm_controller:
+      type: joint_trajectory_controller/JointTrajectoryController
+
+
+    right_arm:
+      type: joint_trajectory_controller/JointTrajectoryController
+
+
+    left_gripper:
+      type: joint_trajectory_controller/JointTrajectoryController
+
+
+    right_gripper:
+      type: position_controllers/GripperActionController
+
+
+    joint_state_broadcaster:
+      type: joint_state_broadcaster/JointStateBroadcaster
+
+left_arm_controller:
+  ros__parameters:
+    joints:
+      - l_shoulder_pan_joint
+      - l_shoulder_lift_joint
+      - l_upper_arm_roll_joint
+      - l_elbow_flex_joint
+      - l_forearm_roll_joint
+      - l_wrist_flex_joint
+      - l_wrist_roll_joint
+    command_interfaces:
+      []
+    state_interfaces:
+      []
+    allow_nonzero_velocity_at_trajectory_end: true
+right_arm:
+  ros__parameters:
+    joints:
+      - r_shoulder_pan_joint
+      - r_shoulder_lift_joint
+      - r_upper_arm_roll_joint
+      - r_elbow_flex_joint
+      - r_forearm_roll_joint
+      - r_wrist_flex_joint
+      - r_wrist_roll_joint
+    command_interfaces:
+      []
+    state_interfaces:
+      []
+    allow_nonzero_velocity_at_trajectory_end: true
+left_gripper:
+  ros__parameters:
+    joints:
+      - l_gripper_l_finger_joint
+      - l_gripper_motor_slider_joint
+      - l_gripper_motor_screw_joint
+      - l_gripper_joint
+    command_interfaces:
+      []
+    state_interfaces:
+      []
+    allow_nonzero_velocity_at_trajectory_end: true
+right_gripper:
+  ros__parameters:
+    joint: r_gripper_l_finger_joint

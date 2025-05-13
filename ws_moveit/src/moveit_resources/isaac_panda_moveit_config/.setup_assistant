@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  urdf:
+    package: moveit_resources_panda_description
+    relative_path: urdf/panda.urdf
+  srdf:
+    relative_path: config/panda.srdf
+  package_settings:
+    author_name: N3.2B2-01
+    author_email: N3.2B2-01@e.ntu.edu.sg
+    generated_timestamp: 1729151266
